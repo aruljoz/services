@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-07-21"
+lastupdated: "2017-07-24"
 
 ---
 
@@ -24,7 +24,6 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 | Service | Available for purchase in Dallas, United States | Available for purchase in London, United Kingdom | Available for purchase in Sydney, Australia | Available for purchase in Frankfurt, Germany |
 |:----------|:------------------------------|:------------------|:------------------|
 |{{site.data.keyword.cloudaccesstrailshort}} | Hosted in Dallas,US | Hosted in London,UK | Not available in region | Not available in region |
-|{{site.data.keyword.activedeployshort}} | Hosted in Dallas,US | Hosted in London,UK | Not available in region | Not available in region |
 |{{site.data.keyword.alchemyapishort}} | Hosted in Dallas,US | Hosted in Dallas,US | Hosted in Dallas,US | Not available in region |
 |{{site.data.keyword.alertnotificationshort}}	| Hosted in Dallas,US	| Hosted in London,UK	| Hosted in Sydney,AU | Not available in region |
 |{{site.data.keyword.appid_short}} | Hosted in Dallas,US | Hosted in London,UK | Hosted in Sydney,AU | Not available in region |
