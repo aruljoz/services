@@ -13,7 +13,7 @@ lastupdated: "2016-11-03"
 
 Allez plus loin avec des bases de données de cloud et des services d'analyse riches et intégrés. En plus d'explorer des
 services, vous pouvez utiliser la console Utilisation des données pour obtenir des données dans vos services, générer des applications
-orientées données et analyser vos données, le tout depuis un seul emplacement. Cliquez simplement sur [Utilisation des données](https://console.ng.bluemix.net/data/services/) dans la vignette `Data & Analytics` du tableau de bord {{site.data.keyword.Bluemix_notm}}.
+orientées données et analyser vos données, le tout depuis un seul emplacement. Cliquez simplement sur [Utilisation des données](https://console.ng.bluemix.net/data/services/) dans la vignette `Data &  Analytics` du tableau de bord {{site.data.keyword.Bluemix_notm}}.
 {:shortdesc}
 
 

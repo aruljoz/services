@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-16"
+lastupdated: "2017-07-14"
 
 ---
 
@@ -66,6 +66,7 @@ No todos los servicios están disponibles para su adquisición en cada región d
 |{{site.data.keyword.GlobalizationPipeline_short}}	| Alojado en Dallas,US	| Alojado en Londres,UK	| Alojado en Sídney,AU | No disponible en la región |
 |{{site.data.keyword.dataworks_short}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región |
 |{{site.data.keyword.openwhisk}} | Alojado en Dallas,US | No disponible en la región | No disponible en la región | No disponible en la región |
+|{{site.data.keyword.registrylong}} | Alojado en Dallas,US | Alojado en Londres,UK | Alojado en Sídney,AU | Alojado en Frankfurt,DE |
 |{{site.data.keyword.containerlong}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | Alojado en Frankfurt,DE |
 |{{site.data.keyword.datastagefull}}		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU | No disponible en la región |
 |{{site.data.keyword.graphshort}}       |Alojado en Dallas,US		|Alojado en Dallas,US		|No disponible en la región | No disponible en la región |
@@ -80,7 +81,7 @@ No todos los servicios están disponibles para su adquisición en cada región d
 |{{site.data.keyword.iotinsurance_short}}		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU| No disponible en la región |
 |{{site.data.keyword.iot_short}}		|Alojado en Dallas,US		|Alojado en Londres,UK		|No disponible en la región| No disponible en la región |
 |{{site.data.keyword.iotrtinsights_short}}		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU| No disponible en la región |
-|Entorno de trabajo de IoT		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU| No disponible en la región |
+|IoT Workbench		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU| No disponible en la región |
 |{{site.data.keyword.keymanagementserviceshort}}	|Alojado en Dallas,US		|No disponible en la región		|No disponible en la región| No disponible en la región |
 |{{site.data.keyword.languagetranslationshort}}	|Alojado en Dallas,US		|Alojado en Dallas,US		|Alojado en Dallas,US | Alojado en Frankfurt,DE |
 |{{site.data.keyword.pm_short}}   |Alojado en Dallas,US		|Alojado en Londres,UK		|No disponible en la región| No disponible en la región |
@@ -97,12 +98,12 @@ No todos los servicios están disponibles para su adquisición en cada región d
 |Grupos de seguridad de red para máquinas virtuales 	|No disponible en la región		|Alojado en Dallas,US		|No disponible en la región | No disponible en la región |
 |{{site.data.keyword.nlclassifiershort}} 	|Alojado en Dallas,US		|Alojado en Dallas,US		|Alojado en Dallas,US | No disponible en la región |
 |{{site.data.keyword.objectstorageshort}}	|Alojado en Dallas,US		|Alojado en Londres,UK		|No disponible en la región| No disponible en la región |
-|Cadena de herramientas abierta			|Alojado en Dallas,US		|No disponible en la región		|No disponible en la región| No disponible en la región |
+|Open Toolchain			|Alojado en Dallas,US		|No disponible en la región		|No disponible en la región| No disponible en la región |
 |{{site.data.keyword.personalityinsightsshort}}	|Alojado en Houston,US		|Alojado en Houston,US		|Alojado en Houston,US | Alojado en Frankfurt,DE |
 |{{site.data.keyword.mobilepushshort}}				|Alojado en Dallas,US		|Alojado en Londres,UK			|Alojado en Sídney,AU | Alojado en Frankfurt,DE |
 |{{site.data.keyword.runbook_short}}				|Alojado en Dallas,US		|Alojado en Londres,UK			|Alojado en Sídney,AU | No disponible en la región |
 |{{site.data.keyword.bpshort}}				|Alojado en Dallas,US		| No disponible en la región | No disponible en la región | No disponible en la región |
-|{{site.data.keyword.SecureGateway}}		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU | No disponible en la región |
+|{{site.data.keyword.SecureGateway}}		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU | Alojado en Frankfurt,DE |
 |{{site.data.keyword.sescashort}}		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU | No disponible en la región |
 |{{site.data.keyword.speechtotextshort}}	|Alojado en Dallas,US		|Alojado en Dallas,US		|Alojado en Dallas,US | Alojado en Frankfurt,DE |
 |{{site.data.keyword.streaminganalyticsshort}}	|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Londres,UK| No disponible en la región |

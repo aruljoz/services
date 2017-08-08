@@ -16,6 +16,7 @@ lastupdated: "2016-11-03"
 {:shortdesc}
 
 
-将商业智能嵌入到应用程序中 | API 驱动的服务 | 基于云的 Cognos BI 内容
+将商业智能嵌入到应用程序中| API 驱动的服务| 基于云的 Cognos BI 内容
+
 --- | --- | ---
-使用 IBM Embeddable Reporting，开发者可以快速轻松地将其 IBM Cognos Business Intelligence 内容嵌入到其 {{site.data.keyword.Bluemix_notm}} 应用程序中。 | 快速地将 REST API 驱动的服务包含在您的应用程序中，并提供有关云的有价值的分析信息。 | 通过将现有 BI 资产提供给 {{site.data.keyword.Bluemix_notm}} 应用程序，将 Cognos Business Intelligence 内容放到云上。
+使用 IBM Embeddable Reporting，开发者可以快速轻松地将其 IBM Cognos Business Intelligence 内容嵌入到其 {{site.data.keyword.Bluemix_notm}} 应用程序中。| 快速地将 REST API 驱动的服务包含在您的应用程序中，并提供有关云的有价值的分析信息。| 通过将现有 BI 资产提供给 {{site.data.keyword.Bluemix_notm}} 应用程序，将 Cognos Business Intelligence 内容放到云上。

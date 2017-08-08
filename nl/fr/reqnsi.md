@@ -41,7 +41,7 @@ présente les services de deux façons : par catégorie de services et par type 
 |Type	|Description	|Détails du support|
 |:------|:--------------|:--------------|
 |IBM	|Service fourni par IBM et généralement disponible.	|Les problèmes considérés comme un défaut d'un service fourni par IBM généralement disponible sont traités. Le support dépend de la gravité que vous définissez. Pour plus d'informations sur la gravité des tickets, voir [Contacter le service de support](/docs/support/index.html#contacting-bluemix-support).|
-|Tiers	|Service fourni par une société autre qu'IBM.	|Le support des services de tiers est assuré par le fournisseur de service. Si IBM examine un problème et détermine qu'il s'agit d'un défaut d'un service de tiers, elle n'est pas obligée de fournir un correctif. IBM partagera son analyse avec le fournisseur de service de tiers si nécessaire.|
+|Tierce partie	|Service fourni par une société autre qu'IBM.	|Le support des services de tiers est assuré par le fournisseur de service. Si IBM examine un problème et détermine qu'il s'agit d'un défaut d'un service de tiers, elle n'est pas obligée de fournir un correctif. IBM partagera son analyse avec le fournisseur de service de tiers si nécessaire.|
 |Communauté	|Service fourni par une communauté open source.	|Le support des services de communauté est assuré par la communauté des développeurs {{site.data.keyword.Bluemix_notm}}. Si IBM examine un problème et détermine qu'il s'agit d'un défaut d'un service de communauté, elle n'est pas obligée de fournir un correctif.|
 |Bêta	|Service qui n'est pas prêt pour la phase de production et qui se trouve au stade d'essai de développement. Un service bêta peut aider les équipes de développement et marketing à évaluer la valeur d'un service avant de le rendre généralement disponible.	|Les problèmes identifiés comme défauts dans un service bêta fourni par IBM sont pris en charge, mais IBM n'est pas obligée de fournir un correctif. De plus, le ticket de problème sera associé à une gravité de 3 ou 4 si applicable. Pour des informations sur la gravité des tickets, voir [Contacter le service de support](/docs/support/index.html#contacting-bluemix-support).|
 {: caption="Tableau 1. Informations sur le support des services {{site.data.keyword.Bluemix_notm}}" caption-side="top"}
@@ -80,7 +80,7 @@ Vous pouvez afficher tous les services qui sont disponibles dans {{site.data.key
 * Depuis l'interface de ligne de commande cf. Utilisez la commande **cf marketplace**.
 * Depuis votre propre application. Utilisez
 l'[API
-Services GET /v2/services ![Icône de lien externe](../icons/launch-glyph.svg)](http://apidocs.cloudfoundry.org/197/services/list_all_services.html){: new_window}.
+Services GET /v2/services ![External link icon](../icons/launch-glyph.svg)](http://apidocs.cloudfoundry.org/197/services/list_all_services.html){: new_window}.
 
 Vous pouvez sélectionner le service dont vous avez besoin pendant le développement des applications. Une fois la sélection effectuée,
 {{site.data.keyword.Bluemix_notm}} interagit avec le service et effectue les opérations nécessaires pour mettre à

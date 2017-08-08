@@ -18,15 +18,9 @@ lastupdated: "2017-05-23"
 {:shortdesc}
 
 
-Há serviços predefinidos disponíveis no {{site.data.keyword.Bluemix_notm}} para aplicativos móveis. O {{site.data.keyword.Bluemix_notm}} facilita
-a implementação, hospedagem e escalação desses serviços móveis
-para os apps móveis. O foco pode ser a lógica e o
-design do aplicativo.
+Há serviços predefinidos disponíveis no {{site.data.keyword.Bluemix_notm}} para aplicativos móveis. O {{site.data.keyword.Bluemix_notm}} facilita a implementação, hospedagem e escalação desses serviços móveis para os apps móveis. O foco pode ser a lógica e o design do aplicativo.
 
-O {{site.data.keyword.Bluemix_notm}} hospeda e gerencia serviços de middleware para aplicativos da web. Os desenvolvedores
-de aplicativos podem especificar os serviços de middleware requeridos. O {{site.data.keyword.Bluemix_notm}} então
-fornece automaticamente novas instâncias dos serviços de middleware
-especificados e liga as instâncias de serviço ao aplicativo.
+O {{site.data.keyword.Bluemix_notm}} hospeda e gerencia serviços de middleware para aplicativos da web. Os desenvolvedores de aplicativos podem especificar os serviços de middleware requeridos. O {{site.data.keyword.Bluemix_notm}} então fornece automaticamente novas instâncias dos serviços de middleware especificados e liga as instâncias de serviço ao aplicativo.
 
 O {{site.data.keyword.Bluemix_notm}} exibe serviços de duas maneiras: por categoria de serviço e por tipo de suporte de serviço.
 
@@ -34,10 +28,7 @@ O {{site.data.keyword.Bluemix_notm}} exibe serviços de duas maneiras: por categ
 
 <dl>
 <dt><strong>Categoria</strong></dt>
-<dd>Os serviços do {{site.data.keyword.Bluemix_notm}}
-são organizados em diferentes categorias. Em cada categoria de serviço, os
-serviços criados pela IBM são listados primeiro, seguidos pelos serviços de terceiros
-e, em seguida, pelos serviços de comunidade.</dd>
+<dd>Os serviços do {{site.data.keyword.Bluemix_notm}} são organizados em diferentes categorias. Em cada categoria de serviço, os serviços criados pela IBM são listados primeiro, seguidos pelos serviços de terceiros e, em seguida, pelos serviços de comunidade.</dd>
 <dt><strong>Suporte</strong></dt>
 <dd>Vários níveis de suporte são fornecidos para serviço {{site.data.keyword.Bluemix_notm}}. A tabela a seguir descreve as informações gerais de suporte para serviços do {{site.data.keyword.Bluemix_notm}}:
 
@@ -46,52 +37,34 @@ e, em seguida, pelos serviços de comunidade.</dd>
 
 
 
-|Tipo	|Descrição	|Detalhes do suporte|
+|Tipo	|Descrição |Detalhes do suporte|
 |:------|:--------------|:--------------|
-|IBM	|Um serviço que é fornecido pela IBM e que está geralmente disponível.	|Problemas determinados como um defeito
-em um serviço fornecido pela IBM que geralmente está disponível são suportados. O suporte será fornecido com base na severidade configurada. Para obter mais informações sobre a severidade do chamado, veja [Entrando em contato com o suporte](/docs/support/index.html#contacting-bluemix-support).|
-|Terceiros	|Um serviço que é fornecido por uma empresa que não seja a IBM.	|O suporte para serviços de terceiros é fornecido
-perlo provedor de serviços. Se um problema for investigado pela IBM e ficar determinado ser um defeito em um serviço de terceiro, a IBM não será obrigada a fornecer uma correção. A IBM compartilhará a análise com o provedor de serviços de terceiro, se necessário.|
-|Comunidade	|Um serviço que é fornecido por uma comunidade de software
-livre.	|O suporte para serviços de comunidade é fornecido pela Comunidade de desenvolvedores do {{site.data.keyword.Bluemix_notm}}. Se um problema for investigado pela IBM e ficar determinado ser um defeito em serviço de comunidade, a IBM não será obrigada a fornecer uma correção.|
-|Beta	|Um serviço que não está pronto para produção e está em um estágio de avaliação de desenvolvimento. Um serviço Beta pode ajudar as equipes de desenvolvimento
-e marketing a avaliar o valor dos serviços antes de tornarem o
-serviço geralmente disponível.	|Problemas que são determinados como sendo um defeito
-em um serviço beta fornecido pela IBM são suportados mas a IBM não é obrigada a
-fornecer uma correção. Além disso,
-o chamado de problema será designado como severidade 3 ou 4 onde aplicável. Para obter informações sobre severidade de chamados, consulte [Entrando em contato com o suporte](/docs/support/index.html#contacting-bluemix-support).|
-{: caption="Tabela 1.  {{site.data.keyword.Bluemix_notm}} serviços de suporte" caption-side="top"}
+|IBM	|Um serviço que é fornecido pela IBM e que está geralmente disponível.	|Problemas determinados como um defeito em um serviço fornecido pela IBM que geralmente está disponível são suportados. O suporte será fornecido com base na severidade configurada. Para obter mais informações sobre a severidade do chamado, veja [Entrando em contato com o suporte](/docs/support/index.html#contacting-bluemix-support).|
+|Terceiro	|Um serviço fornecido por uma empresa que não seja a IBM.	|O suporte para serviços de terceiros é fornecido perlo provedor de serviços. Se um problema for investigado pela IBM e ficar determinado ser um defeito em um serviço de terceiro, a IBM não será obrigada a fornecer uma correção. A IBM compartilhará a análise com o provedor de serviços de terceiro, se necessário.|
+|Comunidade |Um serviço que é fornecido por uma comunidade de software livre.	|O suporte para serviços de comunidade é fornecido pela Comunidade de desenvolvedores do {{site.data.keyword.Bluemix_notm}}. Se um problema for investigado pela IBM e ficar determinado ser um defeito em serviço de comunidade, a IBM não será obrigada a fornecer uma correção.|
+|Beta	|Um serviço que não está pronto para produção e está em um estágio de avaliação de desenvolvimento. Um serviço Beta pode ajudar as equipes de desenvolvimento e marketing a avaliar o valor dos serviços antes de tornarem o serviço geralmente disponível.	|Problemas que são determinados como sendo um defeito em um serviço beta fornecido pela IBM são suportados mas a IBM não é obrigada a fornecer uma correção. Além disso, o chamado de problema será designado como severidade 3 ou 4 onde aplicável. Para obter informações sobre severidade de chamados, consulte [Entrando em contato com o suporte](/docs/support/index.html#contacting-bluemix-support).|
+{: caption="Tabela 1. {{site.data.keyword.Bluemix_notm}} serviços de suporte" caption-side="top"}
 
 
 
 
-O {{site.data.keyword.Bluemix_notm}} também tem serviços experimentais que você pode tentar. Para visualizar todos os serviços experimentais, modelos e tempos de execução
-disponíveis, efetue login no {{site.data.keyword.Bluemix_notm}}, role para o
-final do Catálogo e, em seguida, clique em **{{site.data.keyword.Bluemix_notm}} Lab Catalog**.
+O {{site.data.keyword.Bluemix_notm}} também tem serviços experimentais que você pode tentar. Para visualizar todos os serviços experimentais, modelos e tempos de execução disponíveis, efetue login no {{site.data.keyword.Bluemix_notm}}, role para o final do Catálogo e, em seguida, clique em **{{site.data.keyword.Bluemix_notm}} Lab Catalog**.
 
-Serviços experimentais podem não ser estáveis e podem mudar de maneiras que não sejam compatíveis com versões anteriores. Esses serviços não são recomendados para uso em ambientes de produção. O suporte para serviços experimentais é fornecido por meio da Comunidade de desenvolvedores do {{site.data.keyword.Bluemix_notm}}. Se um problema for investigado pela IBM
-e for determinado que é um defeito em um serviço experimental,
-a IBM não será obrigada a fornecer uma correção.
+Serviços experimentais podem não ser estáveis e podem mudar de maneiras que não sejam compatíveis com versões anteriores. Esses serviços não são recomendados para uso em ambientes de produção. O suporte para serviços experimentais é fornecido por meio da Comunidade de desenvolvedores do {{site.data.keyword.Bluemix_notm}}. Se um problema for investigado pela IBM e for determinado que é um defeito em um serviço experimental, a IBM não será obrigada a fornecer uma correção.
 
 Para usar um serviço no console do {{site.data.keyword.Bluemix_notm}}, na interface da linha de comandos cf, no IBM {{site.data.keyword.Bluemix_notm}} DevOps Services ou em quaisquer ferramentas suportadas, execute as etapas a seguir:
 
-1. Crie uma instância do serviço. Na maioria dos casos,
-a instância de serviço pode ser criada durante a criação do aplicativo.
+1. Crie uma instância do serviço. Na maioria dos casos, a instância de serviço pode ser criada durante a criação do aplicativo.
 
-2. Identifique o aplicativo que usa a nova instância de serviço. Para aplicativos da web, é possível especificar mais de um aplicativo
-para usar a mesma instância de serviço, geralmente para compartilhamento de dados.
+2. Identifique o aplicativo que usa a nova instância de serviço. Para aplicativos da web, é possível especificar mais de um aplicativo para usar a mesma instância de serviço, geralmente para compartilhamento de dados.
 
-3. Escreva seu próprio código no aplicativo para interagir com
-o serviço.
+3. Escreva seu próprio código no aplicativo para interagir com o serviço.
 
 # Incluindo um serviço em seu aplicativo
 {: #add_service}
 
 
-O {{site.data.keyword.Bluemix}} possui
-uma lista de serviços e gerencia-os em nome dos desenvolvedores. Para incluir um serviço para o
-seu aplicativo, deve-se solicitar uma instância desse serviço e configurar o aplicativo para
-interagir com o serviço.
+O {{site.data.keyword.Bluemix}} possui uma lista de serviços e gerencia-os em nome dos desenvolvedores. Para incluir um serviço para o seu aplicativo, deve-se solicitar uma instância desse serviço e configurar o aplicativo para interagir com o serviço.
 
 É possível ver todos os serviços que estão disponíveis no {{site.data.keyword.Bluemix_notm}} das maneiras a seguir:
 
@@ -99,23 +72,11 @@ interagir com o serviço.
 * A partir da interface da linha de comandos cf. Use o comando **cf marketplace**.
 * A partir de seu próprio aplicativo. Use a [API de serviços GET /v2/services ![Ícone de link externo](../icons/launch-glyph.svg)](http://apidocs.cloudfoundry.org/197/services/list_all_services.html){: new_window}.
 
-É possível selecionar o serviço necessário ao desenvolver
-aplicativos. Na seleção, o
-{{site.data.keyword.Bluemix_notm}} interage com o serviço e
-executa as etapas necessárias para fornecer os recursos do serviço. O processo de fornecimento pode ser diferente para diferentes
-tipos de serviços. Por exemplo, um serviço de banco de dados cria um banco de dados
-e um serviço de notificação push para aplicativos móveis gera
-informações de configuração.
+É possível selecionar o serviço necessário ao desenvolver aplicativos. Na seleção, o {{site.data.keyword.Bluemix_notm}} interage com o serviço e executa as etapas necessárias para fornecer os recursos do serviço. O processo de fornecimento pode ser diferente para diferentes tipos de serviços. Por exemplo, um serviço de banco de dados cria um banco de dados e um serviço de notificação push para aplicativos móveis gera informações de configuração.
 
-O {{site.data.keyword.Bluemix_notm}} fornece os recursos de um
-serviço para o aplicativo usando uma instância de serviço. Uma instância de serviço pode ser compartilhada entre os aplicativos da web.
+O {{site.data.keyword.Bluemix_notm}} fornece os recursos de um serviço para o aplicativo usando uma instância de serviço. Uma instância de serviço pode ser compartilhada entre os aplicativos da web.
 
-É possível também usar serviços que são hospedados em outras regiões, se esses serviços estiverem disponíveis
-nessas regiões. Esses
-serviços devem ser acessíveis pela internet e possuírem terminais de API. Deve-se
-codificar manualmente o aplicativo para usar esses serviços da mesma maneira que você
-codifica aplicativos externos ou ferramentas de terceiros para usar os serviços
-{{site.data.keyword.Bluemix_notm}}. Para obter informações adicionais, veja [Permitindo que aplicativos externos e ferramentas de terceiros usem os serviços do {{site.data.keyword.Bluemix_notm}}](#accser_external).
+É possível também usar serviços que são hospedados em outras regiões, se esses serviços estiverem disponíveis nessas regiões. Esses serviços devem ser acessíveis pela internet e possuírem terminais de API. Deve-se codificar manualmente o aplicativo para usar esses serviços da mesma maneira que você codifica aplicativos externos ou ferramentas de terceiros para usar os serviços {{site.data.keyword.Bluemix_notm}}. Para obter informações adicionais, veja [Permitindo que aplicativos externos e ferramentas de terceiros usem os serviços do {{site.data.keyword.Bluemix_notm}}](#accser_external).
 
 
 
@@ -132,15 +93,13 @@ Se você usar o console do {{site.data.keyword.Bluemix_notm}} para solicitar uma
 
 2. Na área de janela Incluir serviço, selecione um aplicativo que você deseja ligar a essa instância de serviço a partir da lista **App**.
 
-3. Digite um nome no campo **Nome do serviço**. Um nome de serviço padrão é fornecido. É possível alterar o nome no campo ou
-mantê-lo inalterado.
+3. Digite um nome no campo **Nome do serviço**. Um nome de serviço padrão é fornecido. É possível alterar o nome no campo ou mantê-lo inalterado.
 
 4. Preencha os campos ou seleções adicionais e, em seguida, clique em **CREATE**.
 
 Se estiver usando a interface de linha de comandos cf para solicitar uma instância de serviço, conclua as seguintes etapas:
 
-1. Use o comando **cf marketplace** para localizar o nome e o plano do serviço
-que você requer.
+1. Use o comando **cf marketplace** para localizar o nome e o plano do serviço que você requer.
 
 2. Use o comando a seguir para criar uma instância de serviço, em que service_name é o nome do serviço, service_plan é o plano do serviço e service_instance é o nome que você deseja usar para essa instância de serviço.
 
@@ -154,50 +113,26 @@ que você requer.
     cf bind-service appname service_instance
     ```
 
-É possível ligar uma instância de serviço apenas àquelas instâncias do app que estão no mesmo espaço ou organização. No entanto, é possível usar instâncias
-de serviço de outros espaços ou organizações da mesma maneira que um app externo faz. Em vez de criar uma ligação, use as credenciais para configurar sua instância do app diretamente. Para obter mais informações sobre como os apps externos usam serviços do {{site.data.keyword.Bluemix_notm}}, veja [Permitindo que apps externos usem serviços do {{site.data.keyword.Bluemix_notm}}](#accser_external).
+É possível ligar uma instância de serviço apenas àquelas instâncias do app que estão no mesmo espaço ou organização. No entanto, é possível usar instâncias de serviço de outros espaços ou organizações da mesma maneira que um app externo faz. Em vez de criar uma ligação, use as credenciais para configurar sua instância do app diretamente. Para obter mais informações sobre como os apps externos usam serviços do {{site.data.keyword.Bluemix_notm}}, veja [Permitindo que apps externos usem serviços do {{site.data.keyword.Bluemix_notm}}](#accser_external).
 
 
 ## Configurando seu aplicativo para interagir com um serviço
 {: #config}
 
-Depois de ligar uma instância de serviço ao aplicativo, deve-se
-configurar o aplicativo para interagir com o serviço.
+Depois de ligar uma instância de serviço ao aplicativo, deve-se configurar o aplicativo para interagir com o serviço.
 
-Cada serviço pode requer um mecanismo diferente
-de comunicação com os aplicativos. Esses mecanismos são
-documentados como parte da definição de serviço para suas informações
-ao desenvolver aplicativos. Para consistência, os
-mecanismos são necessários para que seu aplicativo interaja
-com o serviço.
+Cada serviço pode requer um mecanismo diferente de comunicação com os aplicativos. Esses mecanismos são documentados como parte da definição de serviço para suas informações ao desenvolver aplicativos. Para consistência, os mecanismos são necessários para que seu aplicativo interaja com o serviço.
 
-* Para interagir com os serviços de banco de dados, use as informações que o {{site.data.keyword.Bluemix_notm}} fornece como o ID do usuário, senha
-e o URI de acesso para o aplicativo.
-* Para interagir com os serviços de backend móveis, use as informações que o {{site.data.keyword.Bluemix_notm}} fornece, como a identidade
-do aplicativo (ID do app), informações de segurança que são específicas para o cliente e o URI de acesso para
-o aplicativo. Os serviços móveis geralmente funcionam em contexto entre si para que as informações de
-contexto, como o nome do desenvolvedor de aplicativos e o usuário que usa o aplicativo,
-possam ser compartilhadas em todo o conjunto de serviços.
-* Para interagir com os aplicativos da Web ou código do lado do servidor para aplicativos móveis, use as
-informações que o {{site.data.keyword.Bluemix_notm}} fornece como
-as credenciais de tempo de execução no ambiente *VCAP_SERVICES* do
-aplicativo. O valor da variável de ambiente *VCAP_SERVICES*
-é a serialização de um objeto JSON. A
-variável contém os dados de tempo de execução que são necessários
-para interagir com os serviços aos quais o aplicativo está ligado. O
-formato dos dados é diferente para serviços diferentes. Talvez seja necessário ler a documentação do serviço sobre
-o que deve-se esperar e como interpretar cada parte de informação.
+* Para interagir com os serviços de banco de dados, use as informações que o {{site.data.keyword.Bluemix_notm}} fornece como o ID do usuário, senha e o URI de acesso para o aplicativo.
+* Para interagir com os serviços de backend móveis, use as informações que o {{site.data.keyword.Bluemix_notm}} fornece, como a identidade do aplicativo (ID do app), informações de segurança que são específicas para o cliente e o URI de acesso para o aplicativo. Os serviços móveis geralmente funcionam em contexto entre si para que as informações de contexto, como o nome do desenvolvedor de aplicativos e o usuário que usa o aplicativo, possam ser compartilhadas em todo o conjunto de serviços.
+* Para interagir com os aplicativos da Web ou código do lado do servidor para aplicativos móveis, use as informações que o {{site.data.keyword.Bluemix_notm}} fornece como as credenciais de tempo de execução no ambiente *VCAP_SERVICES* do aplicativo. O valor da variável de ambiente *VCAP_SERVICES* é a serialização de um objeto JSON. A variável contém os dados de tempo de execução que são necessários para interagir com os serviços aos quais o aplicativo está ligado. O formato dos dados é diferente para serviços diferentes. Talvez seja necessário ler a documentação do serviço sobre o que deve-se esperar e como interpretar cada parte de informação.
 
-Se um serviço ligado a um aplicativo ficar paralisado, o aplicativo pode ter parado de executar ou conter erros. O {{site.data.keyword.Bluemix_notm}}
-não reinicia automaticamente o aplicativo para recuperar desses problemas. Considere codificar o aplicativo para identificar e recuperar de indisponibilidades,
-exceções e falhas de conexão. Veja o tópico de resolução de problemas [Os apps não serão reiniciados automaticamente](/docs/troubleshoot/index.html#ts_topmenubar) para obter mais informações.
+Se um serviço ligado a um aplicativo ficar paralisado, o aplicativo pode ter parado de executar ou conter erros. O {{site.data.keyword.Bluemix_notm}} não reinicia automaticamente o aplicativo para recuperar desses problemas. Considere codificar o aplicativo para identificar e recuperar de indisponibilidades, exceções e falhas de conexão. Veja o tópico de resolução de problemas [Os apps não serão reiniciados automaticamente](/docs/troubleshoot/index.html#ts_topmenubar) para obter mais informações.
 
 ## Permitindo que apps externos usem serviços do {{site.data.keyword.Bluemix_notm}}
 {: #accser_external}
 
-Pode haver aplicativos que foram criados e executados fora
-do {{site.data.keyword.Bluemix_notm}}
-ou é possível usar ferramentas de terceiros. Se os serviços do {{site.data.keyword.Bluemix_notm}} fornecerem chaves de serviço acessíveis pela internet, será possível usar esses serviços com apps locais ou ferramentas de terceiros.
+Pode haver aplicativos que foram criados e executados fora do {{site.data.keyword.Bluemix_notm}} ou é possível usar ferramentas de terceiros. Se os serviços do {{site.data.keyword.Bluemix_notm}} fornecerem chaves de serviço acessíveis pela internet, será possível usar esses serviços com apps locais ou ferramentas de terceiros.
 
 Os serviços a seguir fornecem chaves de serviço para você usar externamente:
 
@@ -248,13 +183,9 @@ Para ativar um app externo ou ferramenta de terceiro para usar um serviço do {{
     2. No Catálogo, selecione o serviço desejado clicando no ladrilho do serviço. A página de detalhes do serviço é aberta.
     3. Na janela Incluir serviço, mantenha a seleção da lista **App**: como **Deixar desvinculado**. Essa seleção significa que o serviço não será conectado a um app do {{site.data.keyword.Bluemix_notm}}.
     4. Faça qualquer outra seleção conforme necessário. Em seguida, clique em **CRIAR**. Uma instância de serviço é criada e o Painel de serviço é exibido.
-2. Na área de janela de navegação do Painel de serviço, é possível
-selecionar **Credenciais de serviço** para visualizar ou incluir
-credenciais no formato JSON. Use a chave de API que é exibida como as credenciais para se conectar à instância de serviço.
+2. Na área de janela de navegação do Painel de serviço, é possível selecionar **Credenciais de serviço** para visualizar ou incluir credenciais no formato JSON. Use a chave de API que é exibida como as credenciais para se conectar à instância de serviço.
 
-Seu aplicativo que é executado fora do
-{{site.data.keyword.Bluemix_notm}} agora poderá
-acessar o serviço do {{site.data.keyword.Bluemix_notm}}.
+Seu aplicativo que é executado fora do {{site.data.keyword.Bluemix_notm}} agora poderá acessar o serviço do {{site.data.keyword.Bluemix_notm}}.
 
 **Nota:** Se desejar excluir instâncias de serviço ou verificar as informações de faturamento, deve-se voltar para o Painel na interface com o usuário para gerenciar as instâncias de serviço.
 
@@ -265,10 +196,8 @@ acessar o serviço do {{site.data.keyword.Bluemix_notm}}.
 
 Para criar uma instância de serviço fornecida pelo usuário e ligá-la a um aplicativo, conclua as etapas a seguir:
 
-1. Crie uma instância de serviço fornecida pelo usuário usando o comando **cf create-user-provided-service** ou **cf
-cups**:
-    * Para criar uma instância de serviço fornecida pelo usuário, use a opção **-p** e separe os nomes de parâmetro com vírgulas. A interface da linha de comandos cf, então, solicita cada parâmetro por vez. Por
-exemplo:
+1. Crie uma instância de serviço fornecida pelo usuário usando o comando **cf create-user-provided-service** ou **cf cups**:
+    * Para criar uma instância de serviço fornecida pelo usuário, use a opção **-p** e separe os nomes de parâmetro com vírgulas. A interface da linha de comandos cf, então, solicita cada parâmetro por vez. Por exemplo:
         ```
         cf cups testups1 -p "host, port, dbname, username, password"
         host> pubsub01.example.com
@@ -280,8 +209,7 @@ exemplo:
         OK
         ```
 
-    * Para criar uma instância de serviço que drene informações para um software de gerenciamento de log de terceiro, use a opção **-l** e especifique o destino que o software de gerenciamento de log de terceiro fornece. Por
-exemplo:
+    * Para criar uma instância de serviço que drene informações para um software de gerenciamento de log de terceiro, use a opção **-l** e especifique o destino que o software de gerenciamento de log de terceiro fornece. Por exemplo:
 
         ```
         cf cups testups2 -l syslog://example.com
@@ -291,9 +219,7 @@ exemplo:
 
     Se você desejar atualizar um ou mais parâmetros da instância de serviço fornecida pelo usuário, use o comando **cf update-user-provided-service** ou **cf uups**.
 
-    * Para atualizar uma instância de serviço geral fornecida pelo usuário, use a opção **-p**
-e especifique as chaves e valores de parâmetro em um objeto json. Por
-exemplo:
+    * Para atualizar uma instância de serviço geral fornecida pelo usuário, use a opção **-p** e especifique as chaves e valores de parâmetro em um objeto json. Por exemplo:
 
         ```
         cf uups testups1 -p "{\"username\":\"pubsubuser2\",\"password\":\"p@$$w0rd2\"}"
@@ -301,8 +227,7 @@ exemplo:
         OK
         ```
 
-    * Para criar uma instância de serviço que drene informações para um software de gerenciamento de log de terceiro, use a opção -l. Por
-exemplo:
+    * Para criar uma instância de serviço que drene informações para um software de gerenciamento de log de terceiro, use a opção -l. Por exemplo:
 
         ```
         cf uups testups2 -l syslog://example2.com
@@ -310,8 +235,7 @@ exemplo:
         OK
         ```
 
-2. Ligar a instância de serviço ao seu aplicativo usando o comando cf bind-service. Por
-exemplo:
+2. Ligar a instância de serviço ao seu aplicativo usando o comando cf bind-service. Por exemplo:
 
 	```
 	cf bind-service myapp testups1
@@ -329,31 +253,20 @@ Se você tiver uma instância de serviço criada e ligada a apps em uma região,
   * Use as credenciais de serviço para configurar sua instância do app diretamente. Veja [Permitindo que apps externos usem o serviço do {{site.data.keyword.Bluemix_notm}}](#accser_external) para obter detalhes.
   * Crie um serviço fornecido pelo usuário como uma ponte.
 
-	Suponha que você esteja iniciando na região em que
-deseja usar a instância de serviço. Para usar uma instância de serviço existente
-em uma outra região, conclua as etapas a seguir:
+	Suponha que você esteja iniciando na região em que deseja usar a instância de serviço. Para usar uma instância de serviço existente em uma outra região, conclua as etapas a seguir:
 
       1. Alterne para a região em que a instância de serviço existe. Na barra de menus do {{site.data.keyword.Bluemix_notm}}, expanda o menu **Região** e, em seguida, selecione a região na qual a instância de serviço existe.
 
-      2. Recupere as credenciais e os parâmetros de conexão da variável de ambiente VCAP_SERVICES da instância de serviço na região na qual o serviço existe. Conclua
-as etapas a seguir:
+      2. Recupere as credenciais e os parâmetros de conexão da variável de ambiente VCAP_SERVICES da instância de serviço na região na qual o serviço existe. Conclua as etapas a seguir:
 
 	       1. No Painel do {{site.data.keyword.Bluemix_notm}}, clique no tile do aplicativo. A página Visão geral é exibida.
-	       2. Na área de janela de navegação, clique em **Variáveis de
-ambiente**. Os detalhes da variável de ambiente *VCAP_SERVICES* são exibidos. Registre o conteúdo JSON para a
-instância de serviço.
+	       2. Na área de janela de navegação, clique em **Variáveis de ambiente**. Os detalhes da variável de ambiente *VCAP_SERVICES* são exibidos. Registre o conteúdo JSON para a instância de serviço.
 
-      3. Alterne para a região em que você deseja usar a instância de
-serviço. Na barra de menus do {{site.data.keyword.Bluemix_notm}}, expanda o menu **Região** e, em seguida, selecione a região na qual você deseja usar a instância de serviço.
+      3. Alterne para a região em que você deseja usar a instância de serviço. Na barra de menus do {{site.data.keyword.Bluemix_notm}}, expanda o menu **Região** e, em seguida, selecione a região na qual você deseja usar a instância de serviço.
 
-      4. Crie uma instância de serviço fornecida pelo usuário usando as credenciais
-e os parâmetros de conexão que você registrou a partir da variável de ambiente
-*VCAP_SERVICES*. Para obter informações sobre como criar
-uma instância de serviço fornecida pelo usuário, consulte [Criando uma
-instância de serviço fornecida pelo usuário](#user_provide_services).
+      4. Crie uma instância de serviço fornecida pelo usuário usando as credenciais e os parâmetros de conexão que você registrou a partir da variável de ambiente *VCAP_SERVICES*. Para obter informações sobre como criar uma instância de serviço fornecida pelo usuário, consulte [Criando uma instância de serviço fornecida pelo usuário](#user_provide_services).
 
-      5. Ligue a instância de serviço fornecida pelo usuário ao seu app
-usando o comando a seguir:
+      5. Ligue a instância de serviço fornecida pelo usuário ao seu app usando o comando a seguir:
 
 	     ```
 	     cf bind-service myapp user-provided_service_instance
@@ -367,17 +280,13 @@ usando o comando a seguir:
 ## Usando os serviços em outro serviço
 {: #s2s_binding}
 
-A autorização de acesso de serviço fornece uma maneira para um serviço acessar outro serviço diretamente. É possível autorizar e configurar o acesso de uma instância a outras instâncias de serviço no
+A autorização de acesso de serviço fornece uma maneira para um serviço acessar outro serviço
+diretamente. É possível autorizar e configurar o acesso de uma instância a outras instâncias de serviço no
 Painel do {{site.data.keyword.Bluemix_notm}}.
 
 Para usar uma instância de serviço a partir de outro serviço, conclua as etapas a seguir:
 
 1. No Painel do {{site.data.keyword.Bluemix_notm}}, clique
 no ladrilho para o serviço que você deseja acessar. O painel para o serviço é exibido.
-2. Na área de janela de navegação, clique em
-**Gerenciar** para autorizar a ligação de outras instâncias
-de serviço usando o console da instância de serviço.
-3. Se você desejar negar o acesso de outros serviços à instância de serviço,
-clique em **Autorização de acesso de serviço** na área de janela de
-navegação e, em seguida, use **Revogar** para remover a
-ligação de serviço.
+2. Na área de janela de navegação, clique em **Gerenciar** para autorizar a ligação de outras instâncias de serviço usando o console da instância de serviço.
+3. Se você desejar negar o acesso de outros serviços à instância de serviço, clique em **Autorização de acesso de serviço** na área de janela de navegação e, em seguida, use **Revogar** para remover a ligação de serviço.

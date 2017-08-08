@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-16"
+lastupdated: "2017-07-14"
 
 ---
 
@@ -67,6 +67,7 @@ Non tutti i servizi sono disponibili per l'acquisto in ogni regione {{site.data.
 |{{site.data.keyword.GlobalizationPipeline_short}}	| Ospitato a Dallas,USA	| Ospitato a Londra,UK	| Ospitato a Sydney,AU | Non disponibile nella regione |
 |{{site.data.keyword.dataworks_short}} | Ospitato a Dallas,USA | Ospitato a Londra,UK | Non disponibile nella regione | Non disponibile nella regione |
 |{{site.data.keyword.openwhisk}} | Ospitato a Dallas,USA | Non disponibile nella regione | Non disponibile nella regione | Non disponibile nella regione |
+|{{site.data.keyword.registrylong}} | Ospitato a Dallas,USA | Ospitato a Londra,UK | Ospitato a Sydney,AU | Ospitato a Francoforte, DE |
 |{{site.data.keyword.containerlong}} | Ospitato a Dallas,USA | Ospitato a Londra,UK | Non disponibile nella regione | Ospitato a Francoforte, DE |
 |{{site.data.keyword.datastagefull}}		|Ospitato a Dallas,USA		|Ospitato a Londra,UK		|Ospitato a Sydney,AU | Non disponibile nella regione |
 |{{site.data.keyword.graphshort}}       |Ospitato a Dallas,USA		|Ospitato a Dallas,USA		|Non disponibile nella regione | Non disponibile nella regione |
@@ -103,7 +104,7 @@ Non tutti i servizi sono disponibili per l'acquisto in ogni regione {{site.data.
 |{{site.data.keyword.mobilepushshort}}				|Ospitato a Dallas,USA		|Ospitato a Londra,UK			|Ospitato a Sydney,AU | Ospitato a Francoforte, DE |
 |{{site.data.keyword.runbook_short}}				|Ospitato a Dallas,USA		|Ospitato a Londra,UK			|Ospitato a Sydney,AU | Non disponibile nella regione |
 |{{site.data.keyword.bpshort}}				|Ospitato a Dallas,USA		| Non disponibile nella regione | Non disponibile nella regione | Non disponibile nella regione |
-|{{site.data.keyword.SecureGateway}}		|Ospitato a Dallas,USA		|Ospitato a Londra,UK		|Ospitato a Sydney,AU | Non disponibile nella regione |
+|{{site.data.keyword.SecureGateway}}		|Ospitato a Dallas,USA		|Ospitato a Londra,UK		|Ospitato a Sydney,AU | Ospitato a Francoforte, DE |
 |{{site.data.keyword.sescashort}}		|Ospitato a Dallas,USA		|Ospitato a Londra,UK		|Ospitato a Sydney,AU | Non disponibile nella regione |
 |{{site.data.keyword.speechtotextshort}}	|Ospitato a Dallas,USA		|Ospitato a Dallas,USA		|Ospitato a Dallas,USA | Ospitato a Francoforte, DE |
 |{{site.data.keyword.streaminganalyticsshort}}	|Ospitato a Dallas,USA		|Ospitato a Londra,UK		|Ospitato a Londra,UK| Non disponibile nella regione |
