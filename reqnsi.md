@@ -52,7 +52,7 @@ Predefined services are available in {{site.data.keyword.Bluemix_notm}} for mobi
 
 Experimental services might not be stable and can change in ways that are not compatible with earlier versions. These services are not recommended for use in production environments. Support for experimental services is provided through the {{site.data.keyword.Bluemix_notm}} Developers Community. If a problem is investigated by IBM and the problem is determined to be a defect in an experimental service, IBM is not obligated to provide a fix.
 
-To use a service in the {{site.data.keyword.Bluemix_notm}} console, cf command line interface, IBM {{site.data.keyword.Bluemix_notm}} DevOps Services, or any supported tools, take the following steps:
+To use a service in the {{site.data.keyword.Bluemix_notm}} console, cf command line interface, an open toolchain in DevOps, or any supported tools, take the following steps:
 
 1. Create an instance of the service. In most cases, the service instance can be created when you create the application.
 
