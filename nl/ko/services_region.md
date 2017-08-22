@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-07-14"
+lastupdated: "2017-08-01"
 
 ---
 
@@ -24,7 +24,6 @@ lastupdated: "2017-07-14"
 | 서비스| 댈러스, 미국에서 구매 가능| 런던, 영국에서 구매 가능| 시드니, 호주에서 구매 가능| 프랑크푸르트, 독일에서 구매 가능|
 |:----------|:------------------------------|:------------------|:------------------|
 |{{site.data.keyword.cloudaccesstrailshort}} | 댈러스, 미국에서 호스팅됨| 런던, 영국에서 호스팅됨| 지역에서 사용할 수 없음| 지역에서 사용할 수 없음|
-|{{site.data.keyword.activedeployshort}} | 댈러스, 미국에서 호스팅됨| 런던, 영국에서 호스팅됨| 지역에서 사용할 수 없음| 지역에서 사용할 수 없음|
 |{{site.data.keyword.alchemyapishort}} | 댈러스, 미국에서 호스팅됨| 댈러스, 미국에서 호스팅됨| 댈러스, 미국에서 호스팅됨| 지역에서 사용할 수 없음|
 |{{site.data.keyword.alertnotificationshort}}	| 댈러스, 미국에서 호스팅됨| 런던, 영국에서 호스팅됨| 시드니, 호주에서 호스팅됨| 지역에서 사용할 수 없음|
 |{{site.data.keyword.appid_short}} | 댈러스, 미국에서 호스팅됨| 런던, 영국에서 호스팅됨| 시드니, 호주에서 호스팅됨| 지역에서 사용할 수 없음|
@@ -67,7 +66,9 @@ lastupdated: "2017-07-14"
 |{{site.data.keyword.dataworks_short}} | 댈러스, 미국에서 호스팅됨| 런던, 영국에서 호스팅됨| 지역에서 사용할 수 없음| 지역에서 사용할 수 없음|
 |{{site.data.keyword.openwhisk}} | 댈러스, 미국에서 호스팅됨| 지역에서 사용할 수 없음| 지역에서 사용할 수 없음| 지역에서 사용할 수 없음|
 |{{site.data.keyword.registrylong}} | 댈러스, 미국에서 호스팅됨| 런던, 영국에서 호스팅됨| 시드니, 호주에서 호스팅됨| 프랑크푸르트, 독일에서 호스팅됨|
-|{{site.data.keyword.containerlong}} | 댈러스, 미국에서 호스팅됨| 런던, 영국에서 호스팅됨| 지역에서 사용할 수 없음| 프랑크푸르트, 독일에서 호스팅됨|
+|{{site.data.keyword.containerlong}} | 댈러스, 미국에서 호스팅됨| 런던, 영국에서 호스팅됨| 시드니, 호주에서 호스팅됨| 프랑크푸르트, 독일에서 호스팅됨|
+|{{site.data.keyword.loganalysisfull}} | 댈러스, 미국에서 호스팅됨| 지역에서 사용할 수 없음| 지역에서 사용할 수 없음| 지역에서 사용할 수 없음|
+|{{site.data.keyword.monitoringlong}} | 댈러스, 미국에서 호스팅됨| 런던, 영국에서 호스팅됨| 지역에서 사용할 수 없음| 지역에서 사용할 수 없음|
 |{{site.data.keyword.datastagefull}}		|댈러스, 미국에서 호스팅됨|런던, 영국에서 호스팅됨|시드니, 호주에서 호스팅됨| 지역에서 사용할 수 없음|
 |{{site.data.keyword.graphshort}}       |댈러스, 미국에서 호스팅됨|댈러스, 미국에서 호스팅됨|지역에서 사용할 수 없음| 지역에서 사용할 수 없음|
 |{{site.data.keyword.mdmcloudfull}}		|댈러스, 미국에서 호스팅됨|런던, 영국에서 호스팅됨|시드니, 호주에서 호스팅됨| 프랑크푸르트, 독일에서 호스팅됨|

@@ -10,3 +10,7 @@ Services Bluemix
 	services_availability.md
 	service_deprecation.md
 	{: .navgroup-end}
+	
+	{: .navgroup id="howto"}
+	service_credentials.md
+	{: .navgroup-end}

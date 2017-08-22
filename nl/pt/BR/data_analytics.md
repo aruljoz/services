@@ -14,7 +14,7 @@ lastupdated: "2016-11-03"
 Faça mais com serviços analíticos
 e bancos de dados em nuvem integrados e ricos. Além de explorar os serviços, é possível usar o console
 Trabalhar com dados para obter dados para seus serviços, construir apps acionados por dados
-e analisar seus dados, todos em um local central. Basta clicar em [TRABALHAR COM DADOS](https://console.ng.bluemix.net/data/services/) no ladrilho `Data &  Analytics` no Painel do {{site.data.keyword.Bluemix_notm}}.
+e analisar seus dados, todos em um local central. Basta clicar em [TRABALHAR COM DADOS](https://console.ng.bluemix.net/data/services/) no tile `Data &  Analytics` no Painel do {{site.data.keyword.Bluemix_notm}}.
 {:shortdesc}
 
 

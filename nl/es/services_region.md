@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-07-14"
+lastupdated: "2017-08-01"
 
 ---
 
@@ -24,7 +24,6 @@ No todos los servicios están disponibles para su adquisición en cada región d
 | Servicio | Disponible para su adquisición en Dallas, Estados Unidos | Disponible para su adquisición en Londres, Reino Unido | Disponible para su adquisición en Sídney, Australia | Disponible para su adquisición en Frankfurt, Alemania |
 |:----------|:------------------------------|:------------------|:------------------|
 |{{site.data.keyword.cloudaccesstrailshort}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región |
-|{{site.data.keyword.activedeployshort}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región |
 |{{site.data.keyword.alchemyapishort}} | Alojado en Dallas,US | Alojado en Dallas,US | Alojado en Dallas,US | No disponible en la región |
 |{{site.data.keyword.alertnotificationshort}}	| Alojado en Dallas,US	| Alojado en Londres,UK	| Alojado en Sídney,AU | No disponible en la región |
 |{{site.data.keyword.appid_short}} | Alojado en Dallas,US | Alojado en Londres,UK | Alojado en Sídney,AU | No disponible en la región |
@@ -67,7 +66,9 @@ No todos los servicios están disponibles para su adquisición en cada región d
 |{{site.data.keyword.dataworks_short}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región |
 |{{site.data.keyword.openwhisk}} | Alojado en Dallas,US | No disponible en la región | No disponible en la región | No disponible en la región |
 |{{site.data.keyword.registrylong}} | Alojado en Dallas,US | Alojado en Londres,UK | Alojado en Sídney,AU | Alojado en Frankfurt,DE |
-|{{site.data.keyword.containerlong}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | Alojado en Frankfurt,DE |
+|{{site.data.keyword.containerlong}} | Alojado en Dallas,US | Alojado en Londres,UK | Alojado en Sídney,AU | Alojado en Frankfurt,DE |
+|{{site.data.keyword.loganalysisfull}} | Alojado en Dallas,US | No disponible en la región | No disponible en la región | No disponible en la región |
+|{{site.data.keyword.monitoringlong}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región |
 |{{site.data.keyword.datastagefull}}		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU | No disponible en la región |
 |{{site.data.keyword.graphshort}}       |Alojado en Dallas,US		|Alojado en Dallas,US		|No disponible en la región | No disponible en la región |
 |{{site.data.keyword.mdmcloudfull}}		|Alojado en Dallas,US		|Alojado en Londres,UK		|Alojado en Sídney,AU | Alojado en Frankfurt,DE |

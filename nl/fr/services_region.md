@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-07-14"
+lastupdated: "2017-08-01"
 
 ---
 
@@ -26,7 +26,6 @@ service est disponible à l'achat dans une région, il se peut qu'il soit héber
 | Service | Disponible à l'achat à Dallas, aux Etats-Unis | Disponible à l'achat à Londres, au Royaume-Uni | Disponible à l'achat à Sydney, en Australie | Disponible à l'achat à Francfort, Allemagne |
 |:----------|:------------------------------|:------------------|:------------------|
 |{{site.data.keyword.cloudaccesstrailshort}} | Hébergé à Dallas, aux Etats-Unis | Hébergé à Londres, au Royaume-Uni | Indisponible dans la région | Indisponible dans la région |
-|{{site.data.keyword.activedeployshort}} | Hébergé à Dallas, aux Etats-Unis | Hébergé à Londres, au Royaume-Uni | Indisponible dans la région | Indisponible dans la région |
 |{{site.data.keyword.alchemyapishort}} | Hébergé à Dallas, aux Etats-Unis | Hébergé à Dallas, aux Etats-Unis | Hébergé à Dallas, aux Etats-Unis | Indisponible dans la région |
 |{{site.data.keyword.alertnotificationshort}}	| Hébergé à Dallas, aux Etats-Unis	| Hébergé à Londres, au Royaume-Uni	| Hébergé à Sydney, en Australie | Indisponible dans la région |
 |{{site.data.keyword.appid_short}} | Hébergé à Dallas, aux Etats-Unis | Hébergé à Londres, au Royaume-Uni | Hébergé à Sydney, en Australie | Indisponible dans la région |
@@ -69,7 +68,9 @@ service est disponible à l'achat dans une région, il se peut qu'il soit héber
 |{{site.data.keyword.dataworks_short}} | Hébergé à Dallas, aux Etats-Unis | Hébergé à Londres, au Royaume-Uni | Indisponible dans la région | Indisponible dans la région |
 |{{site.data.keyword.openwhisk}} | Hébergé à Dallas, aux Etats-Unis | Indisponible dans la région | Indisponible dans la région | Indisponible dans la région |
 |{{site.data.keyword.registrylong}} | Hébergé à Dallas, aux Etats-Unis | Hébergé à Londres, au Royaume-Uni | Hébergé à Sydney, en Australie | Hébergé à Francfort, Allemagne |
-|{{site.data.keyword.containerlong}} | Hébergé à Dallas, aux Etats-Unis | Hébergé à Londres, au Royaume-Uni | Indisponible dans la région | Hébergé à Francfort, Allemagne |
+|{{site.data.keyword.containerlong}} | Hébergé à Dallas, aux Etats-Unis | Hébergé à Londres, au Royaume-Uni | Hébergé à Sydney, en Australie | Hébergé à Francfort, Allemagne |
+|{{site.data.keyword.loganalysisfull}} | Hébergé à Dallas, aux Etats-Unis | Indisponible dans la région | Indisponible dans la région | Indisponible dans la région |
+|{{site.data.keyword.monitoringlong}} | Hébergé à Dallas, aux Etats-Unis | Hébergé à Londres, au Royaume-Uni | Indisponible dans la région | Indisponible dans la région |
 |{{site.data.keyword.datastagefull}}		|Hébergé à Dallas, aux Etats-Unis		|Hébergé à Londres, au Royaume-Uni		|Hébergé à Sydney, en Australie | Indisponible dans la région |
 |{{site.data.keyword.graphshort}}       |Hébergé à Dallas, aux Etats-Unis		|Hébergé à Dallas, aux Etats-Unis		|Indisponible dans la région | Indisponible dans la région |
 |{{site.data.keyword.mdmcloudfull}}		|Hébergé à Dallas, aux Etats-Unis		|Hébergé à Londres, au Royaume-Uni		|Hébergé à Sydney, en Australie | Hébergé à Francfort, Allemagne |

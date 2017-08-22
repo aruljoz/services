@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-07-14"
+lastupdated: "2017-08-01"
 
 ---
 
@@ -24,7 +24,6 @@ lastupdated: "2017-07-14"
 | 服務| 可在美國達拉斯購買| 可在英國倫敦購買| 可在澳洲雪梨購買| 可在德國法蘭克福購買|
 |:----------|:------------------------------|:------------------|:------------------|
 |{{site.data.keyword.cloudaccesstrailshort}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用|
-|{{site.data.keyword.activedeployshort}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用|
 |{{site.data.keyword.alchemyapishort}} | 在美國達拉斯進行管理| 在美國達拉斯進行管理| 在美國達拉斯進行管理| 在此地區無法使用|
 |{{site.data.keyword.alertnotificationshort}}	| 在美國達拉斯進行管理| 在英國倫敦進行管理| 在澳洲雪梨進行管理| 在此地區無法使用|
 |{{site.data.keyword.appid_short}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在澳洲雪梨進行管理| 在此地區無法使用|
@@ -67,7 +66,9 @@ lastupdated: "2017-07-14"
 |{{site.data.keyword.dataworks_short}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用|
 |{{site.data.keyword.openwhisk}} | 在美國達拉斯進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|
 |{{site.data.keyword.registrylong}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在澳洲雪梨進行管理| 在德國法蘭克福進行管理|
-|{{site.data.keyword.containerlong}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在德國法蘭克福進行管理|
+|{{site.data.keyword.containerlong}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在澳洲雪梨進行管理| 在德國法蘭克福進行管理|
+|{{site.data.keyword.loganalysisfull}} | 在美國達拉斯進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|
+|{{site.data.keyword.monitoringlong}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用|
 |{{site.data.keyword.datastagefull}}		|在美國達拉斯進行管理|在英國倫敦進行管理|在澳洲雪梨進行管理| 在此地區無法使用|
 |{{site.data.keyword.graphshort}}       |在美國達拉斯進行管理|在美國達拉斯進行管理|在此地區無法使用| 在此地區無法使用|
 |{{site.data.keyword.mdmcloudfull}}		|在美國達拉斯進行管理|在英國倫敦進行管理|在澳洲雪梨進行管理| 在德國法蘭克福進行管理|

@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-07-14"
+lastupdated: "2017-08-01"
 
 ---
 
@@ -24,7 +24,6 @@ Nicht alle Services sind in jeder {{site.data.keyword.Bluemix_notm}}-Region erh�
 | Service | Erhältlich in Dallas, USA | Erhältlich in London, UK | Erhältlich in Sydney, Australien | Erhältlich in Frankfurt, Deutschland |
 |:----------|:------------------------------|:------------------|:------------------|
 |{{site.data.keyword.cloudaccesstrailshort}} | Gehostet in Dallas, USA | Gehostet in London, UK | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
-|{{site.data.keyword.activedeployshort}} | Gehostet in Dallas, USA | Gehostet in London, UK | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
 |{{site.data.keyword.alchemyapishort}} | Gehostet in Dallas, USA | Gehostet in Dallas, USA | Gehostet in Dallas, USA | Nicht erhältlich in der Region |
 |{{site.data.keyword.alertnotificationshort}}	| Gehostet in Dallas, USA	| Gehostet in London, UK	| Gehostet in Sydney, AU | Nicht erhältlich in der Region |
 |{{site.data.keyword.appid_short}} | Gehostet in Dallas, USA | Gehostet in London, UK | Gehostet in Sydney, AU | Nicht erhältlich in der Region |
@@ -67,7 +66,9 @@ Nicht alle Services sind in jeder {{site.data.keyword.Bluemix_notm}}-Region erh�
 |{{site.data.keyword.dataworks_short}} | Gehostet in Dallas, USA | Gehostet in London, UK | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
 |{{site.data.keyword.openwhisk}} | Gehostet in Dallas, USA | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
 |{{site.data.keyword.registrylong}} | Gehostet in Dallas, USA | Gehostet in London, UK | Gehostet in Sydney, AU | Gehostet in Frankfurt,DE |
-|{{site.data.keyword.containerlong}} | Gehostet in Dallas, USA | Gehostet in London, UK | Nicht erhältlich in der Region | Gehostet in Frankfurt,DE |
+|{{site.data.keyword.containerlong}} | Gehostet in Dallas, USA | Gehostet in London, UK | Gehostet in Sydney, AU | Gehostet in Frankfurt,DE |
+|{{site.data.keyword.loganalysisfull}} | Gehostet in Dallas, USA | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
+|{{site.data.keyword.monitoringlong}} | Gehostet in Dallas, USA | Gehostet in London, UK | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
 |{{site.data.keyword.datastagefull}}		|Gehostet in Dallas, USA		|Gehostet in London, UK		|Gehostet in Sydney, AU | Nicht erhältlich in der Region |
 |{{site.data.keyword.graphshort}}       |Gehostet in Dallas, USA		|Gehostet in Dallas, USA		|Nicht erhältlich in der Region | Nicht erhältlich in der Region |
 |{{site.data.keyword.mdmcloudfull}}		|Gehostet in Dallas, USA		|Gehostet in London, UK		|Gehostet in Sydney, AU | Gehostet in Frankfurt,DE |

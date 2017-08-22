@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-07-14"
+lastupdated: "2017-08-01"
 
 ---
 
@@ -24,7 +24,6 @@ lastupdated: "2017-07-14"
 | サービス| 米国ダラスで購入可能| 英国ロンドンで購入可能| オーストラリアのシドニーで購入可能| ドイツのフランクフルトで購入可能|
 |:----------|:------------------------------|:------------------|:------------------|
 |{{site.data.keyword.cloudaccesstrailshort}} | 米国ダラスでホスト| 英国ロンドンでホスト| 地域で使用不可| 地域で使用不可|
-|{{site.data.keyword.activedeployshort}} | 米国ダラスでホスト| 英国ロンドンでホスト| 地域で使用不可| 地域で使用不可|
 |{{site.data.keyword.alchemyapishort}} | 米国ダラスでホスト| 米国ダラスでホスト| 米国ダラスでホスト| 地域で使用不可|
 |{{site.data.keyword.alertnotificationshort}}	| 米国ダラスでホスト| 英国ロンドンでホスト| オーストラリアのシドニーでホスト| 地域で使用不可|
 |{{site.data.keyword.appid_short}} | 米国ダラスでホスト| 英国ロンドンでホスト| オーストラリアのシドニーでホスト| 地域で使用不可|
@@ -67,7 +66,9 @@ lastupdated: "2017-07-14"
 |{{site.data.keyword.dataworks_short}} | 米国ダラスでホスト| 英国ロンドンでホスト| 地域で使用不可| 地域で使用不可|
 |{{site.data.keyword.openwhisk}} | 米国ダラスでホスト| 地域で使用不可| 地域で使用不可| 地域で使用不可|
 |{{site.data.keyword.registrylong}} | 米国ダラスでホスト| 英国ロンドンでホスト| オーストラリアのシドニーでホスト| ドイツのフランクフルトでホスト|
-|{{site.data.keyword.containerlong}} | 米国ダラスでホスト| 英国ロンドンでホスト| 地域で使用不可| ドイツのフランクフルトでホスト|
+|{{site.data.keyword.containerlong}} | 米国ダラスでホスト| 英国ロンドンでホスト| オーストラリアのシドニーでホスト| ドイツのフランクフルトでホスト|
+|{{site.data.keyword.loganalysisfull}} | 米国ダラスでホスト| 地域で使用不可| 地域で使用不可| 地域で使用不可|
+|{{site.data.keyword.monitoringlong}} | 米国ダラスでホスト| 英国ロンドンでホスト| 地域で使用不可| 地域で使用不可|
 |{{site.data.keyword.datastagefull}}		|米国ダラスでホスト|英国ロンドンでホスト|オーストラリアのシドニーでホスト| 地域で使用不可|
 |{{site.data.keyword.graphshort}}       |米国ダラスでホスト|米国ダラスでホスト|地域で使用不可| 地域で使用不可|
 |{{site.data.keyword.mdmcloudfull}}		|米国ダラスでホスト|英国ロンドンでホスト|オーストラリアのシドニーでホスト| ドイツのフランクフルトでホスト|

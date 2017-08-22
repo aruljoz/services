@@ -37,13 +37,13 @@ O {{site.data.keyword.Bluemix_notm}} exibe serviços de duas maneiras: por categ
 
 
 
-|Tipo	|Descrição |Detalhes do suporte|
+|Tipo	|Descrição	|Detalhes do suporte|
 |:------|:--------------|:--------------|
 |IBM	|Um serviço que é fornecido pela IBM e que está geralmente disponível.	|Problemas determinados como um defeito em um serviço fornecido pela IBM que geralmente está disponível são suportados. O suporte será fornecido com base na severidade configurada. Para obter mais informações sobre a severidade do chamado, veja [Entrando em contato com o suporte](/docs/support/index.html#contacting-bluemix-support).|
 |Terceiro	|Um serviço fornecido por uma empresa que não seja a IBM.	|O suporte para serviços de terceiros é fornecido perlo provedor de serviços. Se um problema for investigado pela IBM e ficar determinado ser um defeito em um serviço de terceiro, a IBM não será obrigada a fornecer uma correção. A IBM compartilhará a análise com o provedor de serviços de terceiro, se necessário.|
-|Comunidade |Um serviço que é fornecido por uma comunidade de software livre.	|O suporte para serviços de comunidade é fornecido pela Comunidade de desenvolvedores do {{site.data.keyword.Bluemix_notm}}. Se um problema for investigado pela IBM e ficar determinado ser um defeito em serviço de comunidade, a IBM não será obrigada a fornecer uma correção.|
+|Comunidade	|Um serviço que é fornecido por uma comunidade de software livre.	|O suporte para serviços de comunidade é fornecido pela Comunidade de desenvolvedores do {{site.data.keyword.Bluemix_notm}}. Se um problema for investigado pela IBM e ficar determinado ser um defeito em serviço de comunidade, a IBM não será obrigada a fornecer uma correção.|
 |Beta	|Um serviço que não está pronto para produção e está em um estágio de avaliação de desenvolvimento. Um serviço Beta pode ajudar as equipes de desenvolvimento e marketing a avaliar o valor dos serviços antes de tornarem o serviço geralmente disponível.	|Problemas que são determinados como sendo um defeito em um serviço beta fornecido pela IBM são suportados mas a IBM não é obrigada a fornecer uma correção. Além disso, o chamado de problema será designado como severidade 3 ou 4 onde aplicável. Para obter informações sobre severidade de chamados, consulte [Entrando em contato com o suporte](/docs/support/index.html#contacting-bluemix-support).|
-{: caption="Tabela 1. {{site.data.keyword.Bluemix_notm}} serviços de suporte" caption-side="top"}
+{: caption="Tabela 1.  {{site.data.keyword.Bluemix_notm}} serviços de suporte" caption-side="top"}
 
 
 
@@ -89,7 +89,7 @@ Para solicitar uma nova instância de serviço, deve-se usar o console do {{site
 
 Se você usar o console do {{site.data.keyword.Bluemix_notm}} para solicitar uma instância de serviço, conclua as etapas a seguir:
 
-1. No **Catálogo** do {{site.data.keyword.Bluemix_notm}}, clique no ladrilho para o serviço que você deseja incluir. A página de detalhes do serviço é aberta.
+1. No **Catálogo** do {{site.data.keyword.Bluemix_notm}}, clique no tile para o serviço que você deseja incluir. A página de detalhes do serviço é aberta.
 
 2. Na área de janela Incluir serviço, selecione um aplicativo que você deseja ligar a essa instância de serviço a partir da lista **App**.
 
@@ -180,7 +180,7 @@ Para ativar um app externo ou ferramenta de terceiro para usar um serviço do {{
 
 1. Solicite uma instância do serviço.
     1. No Painel na interface com o usuário do {{site.data.keyword.Bluemix_notm}}, clique em **Usar serviços ou APIs**. O Catálogo é exibido.
-    2. No Catálogo, selecione o serviço desejado clicando no ladrilho do serviço. A página de detalhes do serviço é aberta.
+    2. No Catálogo, selecione o serviço desejado clicando no tile do serviço. A página de detalhes do serviço é aberta.
     3. Na janela Incluir serviço, mantenha a seleção da lista **App**: como **Deixar desvinculado**. Essa seleção significa que o serviço não será conectado a um app do {{site.data.keyword.Bluemix_notm}}.
     4. Faça qualquer outra seleção conforme necessário. Em seguida, clique em **CRIAR**. Uma instância de serviço é criada e o Painel de serviço é exibido.
 2. Na área de janela de navegação do Painel de serviço, é possível selecionar **Credenciais de serviço** para visualizar ou incluir credenciais no formato JSON. Use a chave de API que é exibida como as credenciais para se conectar à instância de serviço.
@@ -286,7 +286,7 @@ Painel do {{site.data.keyword.Bluemix_notm}}.
 
 Para usar uma instância de serviço a partir de outro serviço, conclua as etapas a seguir:
 
-1. No Painel do {{site.data.keyword.Bluemix_notm}}, clique
-no ladrilho para o serviço que você deseja acessar. O painel para o serviço é exibido.
+1. No Painel do {{site.data.keyword.Bluemix_notm}}, clique no tile para o
+serviço que você deseja acessar. O painel para o serviço é exibido.
 2. Na área de janela de navegação, clique em **Gerenciar** para autorizar a ligação de outras instâncias de serviço usando o console da instância de serviço.
 3. Se você desejar negar o acesso de outros serviços à instância de serviço, clique em **Autorização de acesso de serviço** na área de janela de navegação e, em seguida, use **Revogar** para remover a ligação de serviço.

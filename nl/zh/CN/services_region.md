@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-07-14"
+lastupdated: "2017-08-01"
 
 ---
 
@@ -24,7 +24,6 @@ lastupdated: "2017-07-14"
 | 服务| 可在美国达拉斯购买| 可在英国伦敦购买| 可在澳大利亚悉尼购买| 可在德国法兰克福购买|
 |:----------|:------------------------------|:------------------|:------------------|
 |{{site.data.keyword.cloudaccesstrailshort}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用|
-|{{site.data.keyword.activedeployshort}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.alchemyapishort}} | 在美国达拉斯托管| 在美国达拉斯托管| 在美国达拉斯托管| 在区域中不可用|
 |{{site.data.keyword.alertnotificationshort}}	| 在美国达拉斯托管| 在英国伦敦托管| 在澳大利亚悉尼托管| 在区域中不可用|
 |{{site.data.keyword.appid_short}} | 在美国达拉斯托管| 在英国伦敦托管| 在澳大利亚悉尼托管| 在区域中不可用|
@@ -67,7 +66,9 @@ lastupdated: "2017-07-14"
 |{{site.data.keyword.dataworks_short}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.openwhisk}} | 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.registrylong}} | 在美国达拉斯托管| 在英国伦敦托管| 在澳大利亚悉尼托管| 在德国法兰克福托管|
-|{{site.data.keyword.containerlong}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在德国法兰克福托管|
+|{{site.data.keyword.containerlong}} | 在美国达拉斯托管| 在英国伦敦托管| 在澳大利亚悉尼托管| 在德国法兰克福托管|
+|{{site.data.keyword.loganalysisfull}} | 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在区域中不可用|
+|{{site.data.keyword.monitoringlong}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.datastagefull}}		|在美国达拉斯托管|在英国伦敦托管|在澳大利亚悉尼托管| 在区域中不可用|
 |{{site.data.keyword.graphshort}}       |在美国达拉斯托管|在美国达拉斯托管|在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.mdmcloudfull}}		|在美国达拉斯托管|在英国伦敦托管|在澳大利亚悉尼托管| 在德国法兰克福托管|
