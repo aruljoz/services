@@ -71,7 +71,7 @@ I servizi sperimentali potrebbero non essere stabili e possono cambiare secondo 
 e tale problema viene considerato come un difetto in un servizio sperimentale,
 IBM non è tenuto a fornire una correzione.
 
-Per utilizzare un servizio nella console {{site.data.keyword.Bluemix_notm}}, nell'interfaccia riga di comando cf, in IBM {{site.data.keyword.Bluemix_notm}} DevOps Services o in qualsiasi strumento supportato, attieniti alla seguente procedura:
+Per utilizzare un servizio nella console {{site.data.keyword.Bluemix_notm}}, nell'interfaccia riga di comando cf in una toolchain aperta in DevOps o in qualsiasi strumento supportato, attieniti alla seguente procedura:
 
 1. Crea un'istanza del servizio. Nella maggior parte dei casi,
 l'istanza del servizio può essere creata quando crei l'applicazione.

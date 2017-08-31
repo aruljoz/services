@@ -65,7 +65,7 @@ nicht ganz stabil in der Ausführung und können Änderungen aufweisen, die nich
 Versionen kompatibel sind. Diese Services sollten nicht in Produktionsumgebungen verwendet werden. Support für experimentelle Services wird von der {{site.data.keyword.Bluemix_notm}} Developers Community bereitgestellt. Wenn ein Problem von IBM untersucht wird und sich als Mangel eines experimentellen Service herausstellt,
 ist IBM nicht verpflichtet, einen Fix zur Verfügung zu stellen.
 
-Um einen Service in der {{site.data.keyword.Bluemix_notm}}-Konsole, der Befehlszeilenschnittstelle 'cf', IBM {{site.data.keyword.Bluemix_notm}} DevOps Service oder in sonstigen unterstützten Tools nutzen zu können, führen Sie die folgenden Schritte durch:
+Zur Verwendung eines Service in der {{site.data.keyword.Bluemix_notm}}-Konsole, der Befehlszeilenschnittstelle 'cf', einer DevOps Open Toolchain oder eines unterstützten Tools führen Sie die folgenden Schritte aus: 
 
 1. Erstellen Sie eine Instanz des Service. In den meisten Fällen kann die Serviceinstanz im Zuge der Anwendungserstellung eingerichtet werden.
 

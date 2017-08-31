@@ -58,7 +58,7 @@ Les services expérimentaux peuvent
 environnements de production n'est pas recommandée. Le support des services expérimentaux est assuré par la communauté des développeurs {{site.data.keyword.Bluemix_notm}}. Si IBM examine un problème et
 détermine qu'il s'agit d'un défaut d'un service expérimental, elle n'est pas obligée de fournir un correctif.
 
-Pour utiliser un service dans la console {{site.data.keyword.Bluemix_notm}}, l'interface de ligne de commande cf, IBM {{site.data.keyword.Bluemix_notm}} DevOps Services, ou tout autre outil pris en charge, procédez comme suit :
+Pour utiliser un service dans la console {{site.data.keyword.Bluemix_notm}}, l'interface de ligne de commande cf, une chaîne d'outils ouverte dans DevOps, ou tout autre outil pris en charge, procédez comme suit :
 
 1. Créez une instance du service. Dans la plupart des cas, l'instance de service peut être créée en même temps que l'application.
 

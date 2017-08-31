@@ -52,7 +52,7 @@ O {{site.data.keyword.Bluemix_notm}} também tem serviços experimentais que voc
 
 Serviços experimentais podem não ser estáveis e podem mudar de maneiras que não sejam compatíveis com versões anteriores. Esses serviços não são recomendados para uso em ambientes de produção. O suporte para serviços experimentais é fornecido por meio da Comunidade de desenvolvedores do {{site.data.keyword.Bluemix_notm}}. Se um problema for investigado pela IBM e for determinado que é um defeito em um serviço experimental, a IBM não será obrigada a fornecer uma correção.
 
-Para usar um serviço no console do {{site.data.keyword.Bluemix_notm}}, na interface da linha de comandos cf, no IBM {{site.data.keyword.Bluemix_notm}} DevOps Services ou em quaisquer ferramentas suportadas, execute as etapas a seguir:
+Para usar um serviço no console do {{site.data.keyword.Bluemix_notm}}, na interface da linha de comandos cf, em uma cadeia de ferramentas aberta no DevOps ou em qualquer ferramenta suportada, realize as etapas a seguir:
 
 1. Crie uma instância do serviço. Na maioria dos casos, a instância de serviço pode ser criada durante a criação do aplicativo.
 

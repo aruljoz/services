@@ -52,7 +52,7 @@ Los servicios predefinidos están disponibles en {{site.data.keyword.Bluemix_not
 
 Los servicios experimentales pueden no ser estables y es posible que cambien de modo que no sean compatibles con versiones anteriores. No se recomienda utilizar estos servicios en entornos de producción. El soporte para servicios experimentales se proporciona a través de la Comunidad de desarrolladores de {{site.data.keyword.Bluemix_notm}}. Si IBM investiga un problema y se determina que el problema es un defecto de servicio experimental, IBM no está obligado a proporcionar un arreglo.
 
-Para utilizar un servicio en la consola de {{site.data.keyword.Bluemix_notm}}, en la interfaz de línea de mandatos cf, en IBM {{site.data.keyword.Bluemix_notm}} DevOps Services o en cualquier herramienta soportada, realice los pasos siguientes:
+Para utilizar un servicio en la consola de {{site.data.keyword.Bluemix_notm}}, en la interfaz de línea de mandatos cf, en una cadena de herramientas abierta en DevOps o en cualquier herramienta soportada, realice los pasos siguientes:
 
 1. Cree una instancia del servicio. En la mayoría de los casos, la instancia de servicio se puede crear al crear la aplicación.
 
@@ -60,7 +60,7 @@ Para utilizar un servicio en la consola de {{site.data.keyword.Bluemix_notm}}, e
 
 3. Escriba su propio código en la aplicación para interactuar con el servicio.
 
-# Cómo añadir un servicio a la aplicación
+# Adición de un servicio a la app
 {: #add_service}
 
 

@@ -50,7 +50,7 @@ lastupdated: "2017-05-23"
 
 试验性服务可能不稳定，并且可能会发生变化而与较低版本不兼容。不建议在生产环境中使用这些服务。对试验性服务的支持由 {{site.data.keyword.Bluemix_notm}} 开发者社区提供。对于某个问题，如果经 IBM 调查后确定该问题是试验性服务中的缺陷，那么 IBM 没有义务提供修订。
 
-要在 {{site.data.keyword.Bluemix_notm}} 控制台、cf 命令行界面、IBM {{site.data.keyword.Bluemix_notm}} DevOps Services 或任何支持的工具中使用服务，请执行以下步骤：
+要在 {{site.data.keyword.Bluemix_notm}} 控制台、cf 命令行界面、DevOps 的开放式工具链或任何支持的工具中使用服务，请执行以下步骤：
 
 1. 创建服务的实例。在大多数情况下，都可以在创建应用程序时创建服务实例。
 
