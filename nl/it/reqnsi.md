@@ -55,8 +55,8 @@ in un servizio fornito da IBM generalmente disponibile. Il supporto viene fornit
 fornitore del servizio. Se un problema viene analizzato da IBM e tale problema viene considerato come un difetto in un servizio di terze parti, IBM non è tenuto a fornire una correzione. IBM condividerà l'analisi con il fornitore del servizio di terze parti laddove necessario.|
 |Community	|Un servizio fornito da una community
 open source.	|Il supporto per i servizi di community viene fornito dalla Community di sviluppatori {{site.data.keyword.Bluemix_notm}}. Se un problema viene analizzato da IBM e tale problema viene considerato come un difetto in un servizio di community, IBM non è tenuto a fornire una correzione.|
-|Beta	|Un servizio che non è pronto per la produzione e che è un una
-fase di sviluppo di prova. Un servizio beta può aiutare i team di sviluppo
+|Beta	|Un servizio che non è pronto per la produzione
+ed è a una fase di sviluppo di prova. Un servizio beta può aiutare i team di sviluppo
 e di marketing a valutare la qualità dei servizi prima di
 renderli generalmente disponibili.	|Viene fornito supporto per i problemi considerati come un difetto in un servizio beta fornito da IBM, tuttavia  IBM non è tenuto a fornire una correzione. Inoltre,
 laddove applicabile, al ticket del problema verrà assegnata una severità 3 o 4. Per informazioni sulla severità dei ticket, vedi [Come contattare il supporto](/docs/support/index.html#contacting-bluemix-support).|
