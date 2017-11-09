@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-08-01"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2017-08-01"
 # Adding a new service credential
 {: #service_credentials}
 
-You can generate a new set of service credentials for cases where you want to manually connect an external consumer to a Bluemix service. For example, if you are trying to bind an AWS app to a Watson service, you'll need to generate a new service credential that can be used to bind these two services together.
+You can generate a new set of service credentials for cases where you want to manually connect an external consumer to an {{site.data.keyword.Bluemix}} service. For example, if you are trying to bind an AWS app to a Watson service, you'll need to generate a new service credential that can be used to bind these two services together.
 
 Cloud Foundry services can generate a service key, also known as a service credential. Service credentials are service-specific and vary based on how each service defines the credentials they need to generate. A service credential might contain a user name, password, host name, port and a URL. However, the contents of each service credential is unique to the service that generates it. Some services might generate additional data that requires paramaters to be passed in. For example, a service might require you to input a language parameter to set the default language returned in the service key that's generated. 
 
