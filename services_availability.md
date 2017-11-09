@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-03-16"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -13,7 +13,7 @@ lastupdated: "2017-03-16"
 
 # Continued availability for services
 {: #services_availability}
-{{site.data.keyword.Bluemix_notm}} has identified a set of services as Tier 1. IBM will not withdraw any Tier 1 service without either making a functional equivalent available or providing at least five year's notice of the withdrawal.
+{{site.data.keyword.Bluemix}} has identified a set of services as Tier 1. IBM will not withdraw any Tier 1 service without either making a functional equivalent available or providing at least five year's notice of the withdrawal.
 
 The following services are classified as Tier 1:
   * {{site.data.keyword.apiconnect_short}}
