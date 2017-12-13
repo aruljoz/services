@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-08-01"
+lastupdated: "2017-12-13"
 
 ---
 
@@ -65,6 +65,7 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 |{{site.data.keyword.GlobalizationPipeline_short}}	| Hosted in Dallas,US	| Hosted in London,UK	| Hosted in Sydney,AU | Not available in region |
 |{{site.data.keyword.dataworks_short}} | Hosted in Dallas,US | Hosted in London,UK | Not available in region | Not available in region |
 |{{site.data.keyword.openwhisk}} | Hosted in Dallas,US | Not available in region | Not available in region | Not available in region |
+|{{site.data.keyword.cloudcerts_full}} | Hosted in Dallas,US | Not available in region | Not available in region | Not available in region | Not available in region |
 |{{site.data.keyword.registrylong}} | Hosted in Dallas,US | Hosted in London,UK | Hosted in Sydney,AU | Hosted in Frankfurt,DE |
 |{{site.data.keyword.containerlong}} | Hosted in Dallas,US | Hosted in London,UK | Hosted in Sydney,AU | Hosted in Frankfurt,DE |
 |{{site.data.keyword.loganalysisfull}} | Hosted in Dallas,US | Not available in region | Not available in region | Not available in region |
