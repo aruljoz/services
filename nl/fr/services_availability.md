@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-03-16"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -13,7 +13,7 @@ lastupdated: "2017-03-16"
 
 # Disponibilité ininterrompue des services
 {: #services_availability}
-{{site.data.keyword.Bluemix_notm}} a identifié un ensemble de services de niveau 1. Elle ne retirera aucun service de niveau 1 sans proposer
+{{site.data.keyword.Bluemix}} a identifié un ensemble de services de niveau 1. Elle ne retirera aucun service de niveau 1 sans proposer
 de fonction équivalente ou vous aviser de son retrait au moins cinq ans à l'avance.
 
 Les services suivants ont été classés dans le niveau 1 :

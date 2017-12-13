@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-03-16"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -13,7 +13,7 @@ lastupdated: "2017-03-16"
 
 # 服務的持續可用性
 {: #services_availability}
-{{site.data.keyword.Bluemix_notm}} 已將一組服務識別為「層級 1」。若未將功能對等項目設為可用，或提供至少五年的撤銷通知，IBM 就不會撤銷任何「層級 1」服務。
+{{site.data.keyword.Bluemix}} 已將一組服務識別為「層級 1」。若未將功能對等項目設為可用，或提供至少五年的撤銷通知，IBM 就不會撤銷任何「層級 1」服務。
 
 下列服務分類為「層級 1」：
   * {{site.data.keyword.apiconnect_short}}

@@ -2,8 +2,7 @@
 
 copyright:
 
-  years: 2015, 2017
-lastupdated: "2017-03-16"
+  anos: 2015, 2017 última atualização: "09-11-2017"
 
 ---
 
@@ -13,7 +12,7 @@ lastupdated: "2017-03-16"
 
 # Disponibilidade contínua para serviços
 {: #services_availability}
-O {{site.data.keyword.Bluemix_notm}} identificou um conjunto de serviços como Camada 1. A IBM não irá retirar nenhum serviço da Camada 1 sem disponibilizar um equivalente funcional ou fornecer aviso de, pelo menos, cinco anos da retirada.
+O {{site.data.keyword.Bluemix}} identificou um conjunto de serviços como Camada 1. A IBM não irá retirar nenhum serviço da Camada 1 sem disponibilizar um equivalente funcional ou fornecer aviso de, pelo menos, cinco anos da retirada.
 
 Os serviços a seguir são classificados como Camada 1:
   * {{site.data.keyword.apiconnect_short}}
