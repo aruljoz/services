@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-03-16"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -13,7 +13,7 @@ lastupdated: "2017-03-16"
 
 # Disponibilità continua per i servizi
 {: #services_availability}
-{{site.data.keyword.Bluemix_notm}} ha identificato una serie di servizi come di Livello 1. IBM non ritirerà alcun servizio di Livello 1 senza rendere disponibile un suo equivalente funzionale o senza fornire almeno un preavviso di ritiro di cinque anni.
+{{site.data.keyword.Bluemix}} ha identificato una serie di servizi come di Livello 1. IBM non ritirerà alcun servizio di Livello 1 senza rendere disponibile un suo equivalente funzionale o senza fornire almeno un preavviso di ritiro di cinque anni.
 
 I seguenti servizi sono classificati come di Livello 1:
   * {{site.data.keyword.apiconnect_short}}
