@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-12-15"
+lastupdated: "2018-01-02"
 
 ---
 
@@ -72,7 +72,7 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 |{{site.data.keyword.monitoringlong}} | Hosted in Dallas,US | Hosted in London,UK | Not available in region | Not available in region | Not available in region |
 |{{site.data.keyword.datastagefull}} | Hosted in Dallas,US | Hosted in London,UK | Not available in region | Not available in region | Hosted in Sydney,AU |
 |{{site.data.keyword.graphshort}} | Hosted in Dallas,US | Hosted in Dallas,US | Not available in region | Not available in region | Not available in region |
-|{{site.data.keyword.mdmcloudfull}}	| Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Hosted in Not available in region | Hosted in Sydney,AU |
+|{{site.data.keyword.mdmcloudfull}}	| Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Not available in region | Hosted in Sydney,AU |
 |{{site.data.keyword.ssofull}} | Hosted in Washington,DC,US | Not available in region | Not available in region | Not available in region | Not available in region |
 |Identity Mixer | Hosted in Dallas,US	| Hosted in London,UK	| Not available in region | Not available in region | Hosted in Sydney,AU |
 |{{site.data.keyword.IOCloud_short}} | Hosted in Dallas,US | Hosted in London,UK | Not available in region | Not available in region | Hosted in Sydney,AU |
