@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-03-16"
+lastupdated: "2017-11-09"
 
 ---
 
@@ -13,7 +13,7 @@ lastupdated: "2017-03-16"
 
 # 服务持续可用性
 {: #services_availability}
-{{site.data.keyword.Bluemix_notm}} 已将一组服务确定为第 1 层。IBM 在未提供等效功能的情况下，不会撤销任何第 1 层服务，或者撤销前至少提前五年通知。
+{{site.data.keyword.Bluemix}} 已将一组服务确定为第 1 层。IBM 在未提供等效功能的情况下，不会撤销任何第 1 层服务，或者撤销前至少提前五年通知。
 
 以下服务分类为第 1 层：
   * {{site.data.keyword.apiconnect_short}}
