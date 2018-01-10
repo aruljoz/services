@@ -8,7 +8,7 @@ lastupdated: "2016-11-03"
 
 {:shortdesc: .shortdesc}
 
-# Données & analyse
+# Données et analyse
 {: #data_analytics}
 
 Allez plus loin avec des bases de données de cloud et des services d'analyse riches et intégrés. En plus d'explorer des

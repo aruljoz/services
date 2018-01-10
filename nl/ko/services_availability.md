@@ -18,6 +18,7 @@ lastupdated: "2017-11-09"
 계층 1로 분류되는 서비스는 다음과 같습니다.
   * {{site.data.keyword.apiconnect_short}}
   * {{site.data.keyword.cloudant}}
+  * {{site.data.keyword.containershort_notm}}
   * {{site.data.keyword.dashdbshort}}
   * {{site.data.keyword.iot_short}}
   * {{site.data.keyword.messagehub}}

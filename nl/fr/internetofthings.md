@@ -6,7 +6,7 @@ lastupdated: "2016-11-03"
 
 ---
 
-# Internet of Things (Internet des objets)
+# Internet of Things
 {: #internetofthings}
 
 Utilisez ces services

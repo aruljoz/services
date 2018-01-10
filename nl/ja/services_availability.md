@@ -18,10 +18,10 @@ Tier 1 として識別済みです。IBM は、同等な機能を使用可能に
 となしに、または少なくとも 5 年の営業活動中止通知なしで、Tier 1
 サービスの営業活動を中止しません。
 
-
 以下のサービスは Tier 1 として分類されます。
   * {{site.data.keyword.apiconnect_short}}
   * {{site.data.keyword.cloudant}}
+  * {{site.data.keyword.containershort_notm}}
   * {{site.data.keyword.dashdbshort}}
   * {{site.data.keyword.iot_short}}
   * {{site.data.keyword.messagehub}}

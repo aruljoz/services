@@ -8,5 +8,5 @@ lastupdated: "2016-11-03"
 
 {:shortdesc: .shortdesc}
 
-# Services Data & Analytics
+# Services Données et analyse
 {: #data_analytics_services}

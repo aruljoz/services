@@ -19,6 +19,7 @@ de fonction équivalente ou vous aviser de son retrait au moins cinq ans à l'av
 Les services suivants ont été classés dans le niveau 1 :
   * {{site.data.keyword.apiconnect_short}}
   * {{site.data.keyword.cloudant}}
+  * {{site.data.keyword.containershort_notm}}
   * {{site.data.keyword.dashdbshort}}
   * {{site.data.keyword.iot_short}}
   * {{site.data.keyword.messagehub}}
