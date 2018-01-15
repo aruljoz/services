@@ -16,3 +16,7 @@ IBM Cloud services
 	service_in_other_regions.md
 	s2s.md
 	{: .navgroup-end}
+	
+	{: .navgroup id="help"}
+	[Troubleshooting for managing services](../troubleshoot/ts_services.html)
+	{: .navgroup-end}
