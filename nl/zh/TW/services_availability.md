@@ -18,6 +18,7 @@ lastupdated: "2017-11-09"
 下列服務分類為「層級 1」：
   * {{site.data.keyword.apiconnect_short}}
   * {{site.data.keyword.cloudant}}
+  * {{site.data.keyword.containershort_notm}}
   * {{site.data.keyword.dashdbshort}}
   * {{site.data.keyword.iot_short}}
   * {{site.data.keyword.messagehub}}

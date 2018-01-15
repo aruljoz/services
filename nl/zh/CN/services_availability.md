@@ -18,6 +18,7 @@ lastupdated: "2017-11-09"
 以下服务分类为第 1 层：
   * {{site.data.keyword.apiconnect_short}}
   * {{site.data.keyword.cloudant}}
+  * {{site.data.keyword.containershort_notm}}
   * {{site.data.keyword.dashdbshort}}
   * {{site.data.keyword.iot_short}}
   * {{site.data.keyword.messagehub}}
