@@ -22,7 +22,7 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 
 
 | Service | Available for purchase in Dallas, United States | Available for purchase in London, United Kingdom | Available for purchase in Frankfurt, Germany | Available for purchase in Washington, DC, United States | Available for purchase in Sydney, Australia |
-|:----------|:------------------------------|:------------------|:------------------|
+|:----------|:------------------------------|:------------------|:------------------|:------------------|:------------------|
 |{{site.data.keyword.cloudaccesstrailshort}} | Hosted in Dallas,US | Hosted in London,UK | Not available in region | Not available in region | Not available in region |
 |{{site.data.keyword.alchemyapishort}} | Hosted in Dallas,US | Hosted in Dallas,US | Not available in region | Not available in region | Hosted in Dallas,US |
 |{{site.data.keyword.alertnotificationshort}}	| Hosted in Dallas,US	| Hosted in London,UK	| Not available in region | Not available in region | Hosted in Sydney,AU |
