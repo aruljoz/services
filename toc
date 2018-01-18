@@ -18,7 +18,7 @@ IBM Cloud services
 	{: .navgroup-end}
 	
 	{: .navgroup id="help"}
-	[Troubleshooting for managing services](../troubleshoot/ts_services.html)
+	../troubleshoot/ts_services.md
 	{: .navgroup-end}
 	
 
