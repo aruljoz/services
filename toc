@@ -6,7 +6,6 @@ IBM Cloud services
 
 	{: .navgroup id="learn"}
 	services_region.md
-	index.md
 	services_availability.md
 	service_deprecation.md
 	{: .navgroup-end}
@@ -18,7 +17,6 @@ IBM Cloud services
 	{: .navgroup-end}
 	
 	{: .navgroup id="help"}
-	../troubleshoot/ts_services.md
+	index.md
+	[Troubleshooting for managing services](../troubleshoot/ts_services.html)
 	{: .navgroup-end}
-	
-
