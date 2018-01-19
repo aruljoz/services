@@ -17,6 +17,7 @@ O {{site.data.keyword.Bluemix}} identificou um conjunto de serviços como Camada
 Os serviços a seguir são classificados como Camada 1:
   * {{site.data.keyword.apiconnect_short}}
   * {{site.data.keyword.cloudant}}
+  * {{site.data.keyword.containershort_notm}}
   * {{site.data.keyword.dashdbshort}}
   * {{site.data.keyword.iot_short}}
   * {{site.data.keyword.messagehub}}
