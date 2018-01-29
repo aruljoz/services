@@ -65,7 +65,7 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 |{{site.data.keyword.geospatialshort_Geospatial}}	| Hosted in Dallas,US	| Hosted in London,UK	| Not available in region | Not available in region | Hosted in London, UK |
 |{{site.data.keyword.GlobalizationPipeline_short}}	| Hosted in Dallas,US	| Hosted in London,UK	| Not available in region | Not available in region | Hosted in Sydney,AU |
 |{{site.data.keyword.dataworks_short}} | Hosted in Dallas,US | Hosted in London,UK | Not available in region | Not available in region | Not available in region |
-|{{site.data.keyword.openwhisk}} | Hosted in Dallas,US | Not available in region | Not available in region | Not available in region | Not available in region |
+|{{site.data.keyword.openwhisk}} | Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Not available in region | Not available in region |
 |{{site.data.keyword.cloudcerts_full}} | Hosted in Dallas,US | Not available in region | Not available in region | Not available in region | Not available in region |
 |{{site.data.keyword.registrylong}} | Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Not available in region | Hosted in Sydney,AU |
 |{{site.data.keyword.containerlong}} | Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Hosted in Washington,DC,US | Hosted in Sydney,AU |
