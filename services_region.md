@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2018
-lastupdated: "2018-01-19"
+lastupdated: "2018-02-01"
 
 ---
 
@@ -86,7 +86,7 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 |{{site.data.keyword.iot_short}}	| Hosted in Dallas,US	| Hosted in London,UK	| Not available in region | Not available in region | Not available in region |
 |{{site.data.keyword.iotrtinsights_short}} | Hosted in Dallas,US | Hosted in London,UK	| Not available in region | Not available in region | Hosted in Sydney,AU |
 |IoT Workbench | Hosted in Dallas,US | Hosted in London,UK | Not available in region | Not available in region | Hosted in Sydney,AU |
-|{{site.data.keyword.keymanagementserviceshort}} | Hosted in Dallas,US	| Hosted in London,UK	| Not available in region | Not available in region | Not available in region	|
+|{{site.data.keyword.keymanagementserviceshort}} | Hosted in Dallas,US	| Hosted in London,UK	| Not available in region | Not available in region | Hosted in Sydney,AU	|
 |{{site.data.keyword.languagetranslationshort}}	| Hosted in Dallas,US	| Hosted in Dallas,US	| Hosted in Frankfurt,DE | Not available in region | Hosted in Dallas,US |
 |{{site.data.keyword.pm_short}} | Hosted in Dallas,US	| Hosted in London,UK	| Not available in region | Not available in region | Not available in region |
 |{{site.data.keyword.eventhubshort}} | Hosted in Dallas,US | Not available in region | Not available in region | Not available in region | Not available in region |
