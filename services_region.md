@@ -40,7 +40,7 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 |CDN | Hosted in Dallas,US | Not available in region | Not available in region | Not available in region | Not available in region |
 |{{site.data.keyword.conversationshort}} | Hosted in Dallas,US | Hosted in Dallas,US | Hosted in Frankfurt,DE | Not available in region | Hosted in Dallas,US |
 |{{site.data.keyword.iotmapinsights_short}} | Hosted in Dallas,US | Hosted in London,UK | Not available in region | Not available in region | Hosted in Sydney,AU |
-|Cloud Foundry Runtimes | Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Not available in region | Hosted in Sydney,AU |
+|Cloud Foundry Runtimes | Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Hosted in Washington,DC,US | Hosted in Sydney,AU |
 |{{site.data.keyword.cloudant}} | Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Hosted in Washington,DC,US | Hosted in Sydney,AU |
 |{{site.data.keyword.composeForElasticsearch}} | Hosted in Dallas,US and Northern Virginia,US | Hosted in London,UK and Ireland | Hosted in Frankfurt,DE | Not available in region | Hosted in Sydney,AU |
 |{{site.data.keyword.composeForEtcd}}	| Hosted in Dallas,US	| Hosted in London,UK	| Hosted in Frankfurt,DE | Hosted in Washington,DC,US | Hosted in Sydney,AU |
