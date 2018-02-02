@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2018
-lastupdated: "2018-02-01"
+lastupdated: "2018-02-02"
 
 ---
 
@@ -69,7 +69,7 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 |{{site.data.keyword.cloudcerts_full}} | Hosted in Dallas,US | Not available in region | Not available in region | Not available in region | Not available in region |
 |{{site.data.keyword.registrylong}} | Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Not available in region | Hosted in Sydney,AU |
 |{{site.data.keyword.containerlong}} | Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Hosted in Washington,DC,US | Hosted in Sydney,AU |
-|{{site.data.keyword.loganalysisfull}} | Hosted in Dallas,US | Not available in region | Hosted in Frankfurt,DE | Not available in region | Hosted in Sydney,AU |
+|{{site.data.keyword.loganalysisfull}} | Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Not available in region | Hosted in Sydney,AU |
 |{{site.data.keyword.mandbserv_notm}} | Not available in region | Not available in region | Not available in region | Not available in region | Hosted in Sydney,AU |
 |{{site.data.keyword.monitoringlong}} | Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Not available in region | Hosted in Sydney,AU |
 |{{site.data.keyword.datastagefull}} | Hosted in Dallas,US | Hosted in London,UK | Not available in region | Not available in region | Hosted in Sydney,AU |
