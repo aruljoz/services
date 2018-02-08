@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2015, 2017
-lastupdated: "2017-11-09"
+  years: 2015, 2018
+lastupdated: "2018-01-16"
 
 ---
 
@@ -13,7 +13,7 @@ lastupdated: "2017-11-09"
 
 # Fortgesetzte Verfügbarkeit für Services
 {: #services_availability}
-{{site.data.keyword.Bluemix}} hat eine Gruppe von Services als Tier 1 ermittelt. IBM wird keine Tier 1-Service entfernen, ohne ein Funktionsäquivalent zur Verfügung zu stellen oder wenigstens fünf Jahre vorher die Rücknahme des Service bekannt zu machen.
+{{site.data.keyword.Bluemix_notm}} hat eine Gruppe von Services als Tier 1 ermittelt. IBM wird keine Tier 1-Service entfernen, ohne ein Funktionsäquivalent zur Verfügung zu stellen oder wenigstens fünf Jahre vorher die Rücknahme des Service bekannt zu machen.
 
 Die folgenden Services sind als Tier 1 klassifiziert:
   * {{site.data.keyword.apiconnect_short}}
@@ -28,4 +28,4 @@ Die folgenden Services sind als Tier 1 klassifiziert:
   * {{site.data.keyword.ssofull}}
 
 
-Um mehr über die Nutzungsbedingungen für Services zu erfahren, siehe [{{site.data.keyword.Bluemix_notm}}-Nutzungsbedingungen](/docs/navigation/notices.html#terms).
+Um mehr über die Nutzungsbedingungen für Services zu erfahren, siehe [{{site.data.keyword.Bluemix_notm}}-Nutzungsbedingungen](/overview/terms-of-use/notices.html).

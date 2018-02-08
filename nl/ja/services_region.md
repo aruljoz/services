@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2015, 2017
-lastupdated: "2017-12-15"
+  years: 2015, 2018
+lastupdated: "2018-01-19"
 
 ---
 
@@ -22,8 +22,8 @@ lastupdated: "2017-12-15"
 
 
 | サービス | 米国ダラスで購入可能 | 英国ロンドンで購入可能 | ドイツのフランクフルトで購入可能 | 米国ワシントン DC で購入可能 | オーストラリアのシドニーで購入可能 |
-|:----------|:------------------------------|:------------------|:------------------|
-|{{site.data.keyword.cloudaccesstrailshort}} | 米国ダラスでホスト | 英国ロンドンでホスト | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 |
+|:----------|:------------------------------|:------------------|:------------------|:------------------|:------------------|
+|{{site.data.keyword.cloudaccesstrailshort}} | 米国ダラスでホスト | 英国ロンドンでホスト | ドイツのフランクフルトでホスト | 地域で使用不可 | 地域で使用不可 |
 |{{site.data.keyword.alchemyapishort}} | 米国ダラスでホスト | 米国ダラスでホスト | 地域で使用不可 | 地域で使用不可 | 米国ダラスでホスト |
 |{{site.data.keyword.alertnotificationshort}}	| 米国ダラスでホスト	| 英国ロンドンでホスト	| 地域で使用不可 | 地域で使用不可 | オーストラリアのシドニーでホスト |
 |{{site.data.keyword.appid_short}} | 米国ダラスでホスト | 英国ロンドンでホスト | 地域で使用不可 | 地域で使用不可 | オーストラリアのシドニーでホスト | 
@@ -59,6 +59,7 @@ lastupdated: "2017-12-15"
 |{{site.data.keyword.deliverypipeline}}	| 米国ダラスでホスト | 米国ダラスでホスト	| 地域で使用不可 | 地域で使用不可 | 米国ダラスでホスト |
 |Deployment Risk Analytics | 米国ダラスでホスト | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 |
 |Digital Content Checker | 米国ダラスでホスト | 英国ロンドンでホスト | 地域で使用不可 | 地域で使用不可 | オーストラリアのシドニーでホスト |
+|{{site.data.keyword.discoveryshort}} | 米国ダラスでホスト | 米国ダラスでホスト | ドイツのフランクフルトでホスト | 地域で使用不可 | 米国ダラスでホスト |
 |{{site.data.keyword.documentconversionshort}} | 米国ヒューストンでホスト	| 米国ヒューストンでホスト	| 地域で使用不可 | 地域で使用不可 | 米国ヒューストンでホスト |
 |{{site.data.keyword.docgen_short}}	| 米国ダラスでホスト	| 英国ロンドンでホスト	| 地域で使用不可 | 地域で使用不可 | 地域で使用不可 |
 |{{site.data.keyword.geospatialshort_Geospatial}}	| 米国ダラスでホスト	| 英国ロンドンでホスト	| 地域で使用不可 | 地域で使用不可 | 英国ロンドンでホスト |
@@ -68,8 +69,9 @@ lastupdated: "2017-12-15"
 |{{site.data.keyword.cloudcerts_full}} | 米国ダラスでホスト | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 |
 |{{site.data.keyword.registrylong}} | 米国ダラスでホスト | 英国ロンドンでホスト | ドイツのフランクフルトでホスト | 地域で使用不可 | オーストラリアのシドニーでホスト |
 |{{site.data.keyword.containerlong}} | 米国ダラスでホスト | 英国ロンドンでホスト | ドイツのフランクフルトでホスト | 米国ワシントン DC でホスト | オーストラリアのシドニーでホスト |
-|{{site.data.keyword.loganalysisfull}} | 米国ダラスでホスト | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 |
-|{{site.data.keyword.monitoringlong}} | 米国ダラスでホスト | 英国ロンドンでホスト | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 |
+|{{site.data.keyword.loganalysisfull}} | 米国ダラスでホスト | 地域で使用不可 | ドイツのフランクフルトでホスト | 地域で使用不可 | オーストラリアのシドニーでホスト |
+|{{site.data.keyword.mandbserv_notm}} | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 | オーストラリアのシドニーでホスト |
+|{{site.data.keyword.monitoringlong}} | 米国ダラスでホスト | 英国ロンドンでホスト | ドイツのフランクフルトでホスト | 地域で使用不可 | オーストラリアのシドニーでホスト |
 |{{site.data.keyword.datastagefull}} | 米国ダラスでホスト | 英国ロンドンでホスト | 地域で使用不可 | 地域で使用不可 | オーストラリアのシドニーでホスト |
 |{{site.data.keyword.graphshort}} | 米国ダラスでホスト | 米国ダラスでホスト | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 |
 |{{site.data.keyword.mdmcloudfull}}	| 米国ダラスでホスト | 英国ロンドンでホスト | ドイツのフランクフルトでホスト | 地域で使用不可 | オーストラリアのシドニーでホスト |
@@ -84,7 +86,7 @@ lastupdated: "2017-12-15"
 |{{site.data.keyword.iot_short}}	| 米国ダラスでホスト	| 英国ロンドンでホスト	| 地域で使用不可 | 地域で使用不可 | 地域で使用不可 |
 |{{site.data.keyword.iotrtinsights_short}} | 米国ダラスでホスト | 英国ロンドンでホスト	| 地域で使用不可 | 地域で使用不可 | オーストラリアのシドニーでホスト |
 |IoT Workbench | 米国ダラスでホスト | 英国ロンドンでホスト | 地域で使用不可 | 地域で使用不可 | オーストラリアのシドニーでホスト |
-|{{site.data.keyword.keymanagementserviceshort}} | 米国ダラスでホスト	| 地域で使用不可	| 地域で使用不可 | 地域で使用不可 | 地域で使用不可	|
+|{{site.data.keyword.keymanagementserviceshort}} | 米国ダラスでホスト	| 英国ロンドンでホスト	| 地域で使用不可 | 地域で使用不可 | 地域で使用不可	|
 |{{site.data.keyword.languagetranslationshort}}	| 米国ダラスでホスト	| 米国ダラスでホスト	| ドイツのフランクフルトでホスト | 地域で使用不可 | 米国ダラスでホスト |
 |{{site.data.keyword.pm_short}} | 米国ダラスでホスト	| 英国ロンドンでホスト	| 地域で使用不可 | 地域で使用不可 | 地域で使用不可 |
 |{{site.data.keyword.eventhubshort}} | 米国ダラスでホスト | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 | 地域で使用不可 |

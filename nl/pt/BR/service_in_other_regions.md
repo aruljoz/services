@@ -1,6 +1,8 @@
 ---
 
-copyright: years: 2015, 2016, 2017 lastupdated: "2017-11-29"
+copyright:
+  years: 2015, 2018
+lastupdated: "2018-01-16"
 
 ---
 
@@ -12,7 +14,7 @@ copyright: years: 2015, 2016, 2017 lastupdated: "2017-11-29"
 Se você tiver uma instância de serviço criada e ligada a apps em uma região, será possível usar essa instância de serviço em uma outra região com um dos métodos a seguir:
 {: shortdesc}
 
-  * Use as credenciais de serviço para configurar sua instância do app diretamente. Veja [Ativando apps externos para usar o serviço {{site.data.keyword.Bluemix_notm}}](../manageapps/reqnsi.html#accser_external){: new_window} para obter detalhes.
+  * Use as credenciais de serviço para configurar sua instância do app diretamente. Consulte [Ativando aplicativos externos para usar o serviço do {{site.data.keyword.Bluemix_notm}}](/docs/apps/reqnsi.html#accser_external){: new_window} para obter detalhes.
   * Crie um serviço fornecido pelo usuário como uma ponte.
 
 	Para usar uma instância de serviço existente
@@ -32,9 +34,7 @@ serviço. Na barra de menus do {{site.data.keyword.Bluemix_notm}}, expanda o men
 
       4. Crie uma instância de serviço fornecida pelo usuário usando as credenciais
 e os parâmetros de conexão que você registrou a partir da variável de ambiente
-*VCAP_SERVICES*. Para obter informações sobre como criar
-uma instância de serviço fornecida pelo usuário, consulte [Criando uma
-instância de serviço fornecida pelo usuário](../manageapps/reqnsi.html#user_provide_services).
+*VCAP_SERVICES*. Para obter informações sobre como criar uma instância de serviço fornecida pelo usuário, consulte [Criando uma instância de serviço fornecida pelo usuário](/docs/apps/reqnsi.html#user_provide_services).
 
       5. Ligue a instância de serviço fornecida pelo usuário ao seu app
 usando o comando a seguir:

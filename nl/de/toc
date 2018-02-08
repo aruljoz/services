@@ -6,7 +6,6 @@ IBM Cloud-Services
 
 	{: .navgroup id="learn"}
 	services_region.md
-	index.md
 	services_availability.md
 	service_deprecation.md
 	{: .navgroup-end}
@@ -15,4 +14,9 @@ IBM Cloud-Services
 	service_credentials.md
 	service_in_other_regions.md
 	s2s.md
+	{: .navgroup-end}
+	
+	{: .navgroup id="help"}
+	index.md
+	[TFehlerbehebung für die Verwaltung von Services](../troubleshoot/ts_services.html)
 	{: .navgroup-end}

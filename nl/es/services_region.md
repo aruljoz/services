@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2015, 2017
-lastupdated: "2017-12-15"
+  years: 2015, 2018
+lastupdated: "2018-01-19"
 
 ---
 
@@ -22,8 +22,8 @@ No todos los servicios están disponibles para su adquisición en cada región d
 
 
 | Servicio | Disponible para su adquisición en Dallas, Estados Unidos | Disponible para su adquisición en Londres, Reino Unido | Disponible para su adquisición en Frankfurt, Alemania | Disponible para su adquisición en Washington, DC, Estados Unidos | Disponible para su adquisición en Sídney, Australia |
-|:----------|:------------------------------|:------------------|:------------------|
-|{{site.data.keyword.cloudaccesstrailshort}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región | No disponible en la región |
+|:----------|:------------------------------|:------------------|:------------------|:------------------|:------------------|
+|{{site.data.keyword.cloudaccesstrailshort}} | Alojado en Dallas,US | Alojado en Londres,UK | Alojado en Frankfurt,DE | No disponible en la región | No disponible en la región |
 |{{site.data.keyword.alchemyapishort}} | Alojado en Dallas,US | Alojado en Dallas,US | No disponible en la región | No disponible en la región | Alojado en Dallas,US |
 |{{site.data.keyword.alertnotificationshort}}	| Alojado en Dallas,US	| Alojado en Londres,UK	| No disponible en la región | No disponible en la región | Alojado en Sídney,AU |
 |{{site.data.keyword.appid_short}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región | Alojado en Sídney,AU | 
@@ -59,6 +59,7 @@ No todos los servicios están disponibles para su adquisición en cada región d
 |{{site.data.keyword.deliverypipeline}}	| Alojado en Dallas,US | Alojado en Dallas,US	| No disponible en la región | No disponible en la región | Alojado en Dallas,US |
 |Deployment Risk Analytics | Alojado en Dallas,US | No disponible en la región | No disponible en la región | No disponible en la región | No disponible en la región |
 |Comprobador de contenido digital | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región | Alojado en Sídney,AU |
+|{{site.data.keyword.discoveryshort}} | Alojado en Dallas,US | Alojado en Dallas,US | Alojado en Frankfurt,DE | No disponible en la región | Alojado en Dallas,US |
 |{{site.data.keyword.documentconversionshort}} | Alojado en Houston,US	| Alojado en Houston,US	| No disponible en la región | No disponible en la región | Alojado en Houston,US |
 |{{site.data.keyword.docgen_short}}	| Alojado en Dallas,US	| Alojado en Londres,UK	| No disponible en la región | No disponible en la región | No disponible en la región |
 |{{site.data.keyword.geospatialshort_Geospatial}}	| Alojado en Dallas,US	| Alojado en Londres,UK	| No disponible en la región | No disponible en la región | Alojado en Londres,UK |
@@ -68,11 +69,12 @@ No todos los servicios están disponibles para su adquisición en cada región d
 |{{site.data.keyword.cloudcerts_full}} | Alojado en Dallas,US | No disponible en la región | No disponible en la región | No disponible en la región | No disponible en la región |
 |{{site.data.keyword.registrylong}} | Alojado en Dallas,US | Alojado en Londres,UK | Alojado en Frankfurt,DE | No disponible en la región | Alojado en Sídney,AU |
 |{{site.data.keyword.containerlong}} | Alojado en Dallas,US | Alojado en Londres,UK | Alojado en Frankfurt,DE | Alojado en Washington,DC,US | Alojado en Sídney,AU |
-|{{site.data.keyword.loganalysisfull}} | Alojado en Dallas,US | No disponible en la región | No disponible en la región | No disponible en la región | No disponible en la región |
-|{{site.data.keyword.monitoringlong}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región | No disponible en la región |
+|{{site.data.keyword.loganalysisfull}} | Alojado en Dallas,US | No disponible en la región | Alojado en Frankfurt,DE | No disponible en la región | Alojado en Sídney,AU |
+|{{site.data.keyword.mandbserv_notm}} | No disponible en la región | No disponible en la región | No disponible en la región | No disponible en la región | Alojado en Sídney,AU |
+|{{site.data.keyword.monitoringlong}} | Alojado en Dallas,US | Alojado en Londres,UK | Alojado en Frankfurt,DE | No disponible en la región | Alojado en Sídney,AU |
 |{{site.data.keyword.datastagefull}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región | Alojado en Sídney,AU |
 |{{site.data.keyword.graphshort}} | Alojado en Dallas,US | Alojado en Dallas,US | No disponible en la región | No disponible en la región | No disponible en la región |
-|{{site.data.keyword.mdmcloudfull}}	| Alojado en Dallas,US | Alojado en Londres,UK | Alojado en Frankfurt,DE | Alojado en No disponible en la región | Alojado en Sídney,AU |
+|{{site.data.keyword.mdmcloudfull}}	| Alojado en Dallas,US | Alojado en Londres,UK | Alojado en Frankfurt,DE | No disponible en la región | Alojado en Sídney,AU |
 |{{site.data.keyword.ssofull}} | Alojado en Washington,DC,US | No disponible en la región | No disponible en la región | No disponible en la región | No disponible en la región |
 |Identity Mixer | Alojado en Dallas,US	| Alojado en Londres,UK	| No disponible en la región | No disponible en la región | Alojado en Sídney,AU |
 |{{site.data.keyword.IOCloud_short}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región | Alojado en Sídney,AU |
@@ -82,11 +84,11 @@ No todos los servicios están disponibles para su adquisición en cada región d
 |{{site.data.keyword.iotelectronics}}	| Alojado en Dallas,US | Alojado en Londres,UK	| No disponible en la región | No disponible en la región | Alojado en Sídney,AU |
 |{{site.data.keyword.iotinsurance_short}}	| Alojado en Dallas,US | Alojado en Londres,UK	| No disponible en la región | No disponible en la región | Alojado en Sídney,AU |
 |{{site.data.keyword.iot_short}}	| Alojado en Dallas,US	| Alojado en Londres,UK	| No disponible en la región | No disponible en la región | No disponible en la región |
-|{{site.data.keyword.iotrtinsights_short}} | Alojado en Dallas,US | Alojado en Londres,UK	| No disponible en la región | No disponible en la región | Alojado en Sídney,AU |
+|{{site.data.keyword.iotrtinsights_short}} | Alojado en Dallas,US | Alojado en Londres,UK	| No disponible en la región | No disponible en la región	| Alojado en Sídney,AU |
 |IoT Workbench | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región | Alojado en Sídney,AU |
-|{{site.data.keyword.keymanagementserviceshort}} | Alojado en Dallas,US	| No disponible en la región	| No disponible en la región | No disponible en la región | No disponible en la región	|
+|{{site.data.keyword.keymanagementserviceshort}} | Alojado en Dallas,US	| Alojado en Londres,UK	| No disponible en la región | No disponible en la región | No disponible en la región	|
 |{{site.data.keyword.languagetranslationshort}}	| Alojado en Dallas,US	| Alojado en Dallas,US	| Alojado en Frankfurt,DE | No disponible en la región | Alojado en Dallas,US |
-|{{site.data.keyword.pm_short}} | Alojado en Dallas,US	| Alojado en Londres,UK	| No disponible en la región | No disponible en la región | No disponible en la región |
+|{{site.data.keyword.pm_short}} | Alojado en Dallas,US	 | Alojado en Londres,UK	| No disponible en la región | No disponible en la región | No disponible en la región |
 |{{site.data.keyword.eventhubshort}} | Alojado en Dallas,US | No disponible en la región | No disponible en la región | No disponible en la región | No disponible en la región |
 |{{site.data.keyword.messagehub}}	| Alojado en Dallas,US	 | Alojado en Londres,UK | Alojado en Frankfurt,DE | No disponible en la región | No disponible en la región |
 |{{site.data.keyword.incubator}} | Alojado en Dallas,US | No disponible en la región | No disponible en la región | No disponible en la región | No disponible en la región |
@@ -98,7 +100,7 @@ No todos los servicios están disponibles para su adquisición en cada región d
 |{{site.data.keyword.manda}} | Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región | Alojado en Sídney,AU |
 |{{site.data.keyword.mql}} | No disponible en la región | No disponible en la región | No disponible en la región | No disponible en la región | Alojado en Sídney,AU |
 |Grupos de seguridad de red para máquinas virtuales | No disponible en la región | Alojado en Dallas,US | No disponible en la región | No disponible en la región | No disponible en la región |
-|{{site.data.keyword.nlclassifiershort}} | Alojado en Dallas,US | Alojado en Dallas,US | No disponible en la región | No disponible en la región | Alojado en Dallas,US |
+|{{site.data.keyword.nlclassifiershort}} | Alojado en Dallas,US | Alojado en Dallas,US | No disponible en la región | No disponible en la región	| Alojado en Dallas,US |
 |{{site.data.keyword.objectstorageshort}}	| Alojado en Dallas,US | Alojado en Londres,UK | No disponible en la región | No disponible en la región | No disponible en la región |
 |Open Toolchain	| Alojado en Dallas,US	| No disponible en la región	| No disponible en la región | No disponible en la región | No disponible en la región	|
 |{{site.data.keyword.personalityinsightsshort}}	| Alojado en Houston,US | Alojado en Houston,US	| Alojado en Frankfurt,DE | No disponible en la región | Alojado en Houston,US |

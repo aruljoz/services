@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2016, 2017
-lastupdated: "2017-11-29"
+  years: 2015, 2018
+lastupdated: "2018-01-16"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2017-11-29"
 Si une instance de service est créée et liée à des applications dans une région, vous pouvez l'utiliser dans une autre région de l'une des façons suivantes :
 {: shortdesc}
 
-  * Utilisez les données d'identification du service pour configurer votre instance d'application directement. Voir [Utilisation des services {{site.data.keyword.Bluemix_notm}} avec des applications externes](../manageapps/reqnsi.html#accser_external){: new_window}
+  * Utilisez les données d'identification du service pour configurer votre instance d'application directement. Voir [Utilisation des services {{site.data.keyword.Bluemix_notm}} avec des applications externes](/docs/apps/reqnsi.html#accser_external){: new_window}
 pour des détails.
   * Créez un service fourni par l'utilisateur comme pont.
 
@@ -29,7 +29,7 @@ pour des détails.
 
       3. Passez dans la région dans laquelle vous voulez utiliser l'instance de service. Dans la barre de menus {{site.data.keyword.Bluemix_notm}}, développez le menu **Région**, puis sélectionnez la région où vous désirez utiliser l'instance de service.
 
-      4. Créez une instance de service fournie par l'utilisateur en utilisant les données d'identification et les paramètres de connexion que vous avez enregistrés depuis la variable d'environnement *VCAP_SERVICES*. Pour plus d'informations sur la création d'une instance de service fournie par l'utilisateur, voir [Création d'une instance de service fournie par l'utilisateur](../manageapps/reqnsi.html#user_provide_services).
+      4. Créez une instance de service fournie par l'utilisateur en utilisant les données d'identification et les paramètres de connexion que vous avez enregistrés depuis la variable d'environnement *VCAP_SERVICES*. Pour plus d'informations sur la création d'une instance de service fournie par l'utilisateur, voir [Création d'une instance de service fournie par l'utilisateur](/docs/apps/reqnsi.html#user_provide_services).
 
       5. Liez l'instance de service fournie par l'utilisateur à votre application avec la commande suivante :
 
