@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2015, 2017
-lastupdated: "2017-12-15"
+  years: 2015, 2018
+lastupdated: "2018-01-19"
 
 ---
 
@@ -22,8 +22,8 @@ lastupdated: "2017-12-15"
 
 
 | 服務| 可在美國達拉斯購買| 可在英國倫敦購買| 可在德國法蘭克福購買| 可在美國華盛頓特區購買| 可在澳洲雪梨購買|
-|:----------|:------------------------------|:------------------|:------------------|
-|{{site.data.keyword.cloudaccesstrailshort}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|
+|:----------|:------------------------------|:------------------|:------------------|:------------------|:------------------|
+|{{site.data.keyword.cloudaccesstrailshort}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在德國法蘭克福進行管理| 在此地區無法使用| 在此地區無法使用|
 |{{site.data.keyword.alchemyapishort}} | 在美國達拉斯進行管理| 在美國達拉斯進行管理| 在此地區無法使用| 在此地區無法使用| 在美國達拉斯進行管理|
 |{{site.data.keyword.alertnotificationshort}}	| 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用| 在澳洲雪梨進行管理|
 |{{site.data.keyword.appid_short}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用| 在澳洲雪梨進行管理| 
@@ -59,6 +59,7 @@ lastupdated: "2017-12-15"
 |{{site.data.keyword.deliverypipeline}}	| 在美國達拉斯進行管理| 在美國達拉斯進行管理| 在此地區無法使用| 在此地區無法使用| 在美國達拉斯進行管理|
 |Deployment Risk Analytics| 在美國達拉斯進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|
 |Digital Content Checker| 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用| 在澳洲雪梨進行管理|
+|{{site.data.keyword.discoveryshort}} | 在美國達拉斯進行管理| 在美國達拉斯進行管理| 在德國法蘭克福進行管理| 在此地區無法使用| 在美國達拉斯進行管理|
 |{{site.data.keyword.documentconversionshort}} | 在美國休斯頓進行管理| 在美國休斯頓進行管理| 在此地區無法使用| 在此地區無法使用| 在美國休斯頓進行管理|
 |{{site.data.keyword.docgen_short}}	| 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|
 |{{site.data.keyword.geospatialshort_Geospatial}}	| 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用| 在英國倫敦進行管理|
@@ -68,8 +69,9 @@ lastupdated: "2017-12-15"
 |{{site.data.keyword.cloudcerts_full}} | 在美國達拉斯進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|
 |{{site.data.keyword.registrylong}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在德國法蘭克福進行管理| 在此地區無法使用| 在澳洲雪梨進行管理|
 |{{site.data.keyword.containerlong}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在德國法蘭克福進行管理| 在美國華盛頓特區進行管理| 在澳洲雪梨進行管理|
-|{{site.data.keyword.loganalysisfull}} | 在美國達拉斯進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|
-|{{site.data.keyword.monitoringlong}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|
+|{{site.data.keyword.loganalysisfull}} | 在美國達拉斯進行管理| 在此地區無法使用| 在德國法蘭克福進行管理| 在此地區無法使用| 在澳洲雪梨進行管理|
+|{{site.data.keyword.mandbserv_notm}} | 在此地區無法使用| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用| 在澳洲雪梨進行管理|
+|{{site.data.keyword.monitoringlong}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在德國法蘭克福進行管理| 在此地區無法使用| 在澳洲雪梨進行管理|
 |{{site.data.keyword.datastagefull}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用| 在澳洲雪梨進行管理|
 |{{site.data.keyword.graphshort}} | 在美國達拉斯進行管理| 在美國達拉斯進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|
 |{{site.data.keyword.mdmcloudfull}}	| 在美國達拉斯進行管理| 在英國倫敦進行管理| 在德國法蘭克福進行管理| 在此地區無法使用| 在澳洲雪梨進行管理|
@@ -84,7 +86,7 @@ lastupdated: "2017-12-15"
 |{{site.data.keyword.iot_short}}	| 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|
 |{{site.data.keyword.iotrtinsights_short}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用| 在澳洲雪梨進行管理|
 |IoT Workbench		| 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用| 在澳洲雪梨進行管理|
-|{{site.data.keyword.keymanagementserviceshort}} | 在美國達拉斯進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|
+|{{site.data.keyword.keymanagementserviceshort}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|
 |{{site.data.keyword.languagetranslationshort}}	| 在美國達拉斯進行管理| 在美國達拉斯進行管理| 在德國法蘭克福進行管理| 在此地區無法使用| 在美國達拉斯進行管理|
 |{{site.data.keyword.pm_short}} | 在美國達拉斯進行管理| 在英國倫敦進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|
 |{{site.data.keyword.eventhubshort}} | 在美國達拉斯進行管理| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用| 在此地區無法使用|

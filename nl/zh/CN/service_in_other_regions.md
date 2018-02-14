@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2016, 2017
-lastupdated: "2017-11-29"
+  years: 2015, 2018
+lastupdated: "2018-01-16"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2017-11-29"
 如果您在一个区域创建了服务实例并将其绑定到应用程序，那么可以通过以下某种方法，在另外一个区域使用此服务实例：
 {: shortdesc}
 
-  * 使用服务凭证来直接配置应用程序实例。有关详细信息，请参阅[允许外部应用程序使用 {{site.data.keyword.Bluemix_notm}} 服务](../manageapps/reqnsi.html#accser_external){: new_window}。
+  * 使用服务凭证来直接配置应用程序实例。有关详细信息，请参阅[允许外部应用程序使用 {{site.data.keyword.Bluemix_notm}} 服务](/docs/apps/reqnsi.html#accser_external){: new_window}。
   * 创建用户提供的服务作为网桥。
 
 	要使用另一个区域中存在的服务实例，请完成以下步骤：
@@ -28,7 +28,7 @@ lastupdated: "2017-11-29"
 
       3. 切换到您要在其中使用服务实例的区域。在 {{site.data.keyword.Bluemix_notm}} 菜单栏中，展开**区域**菜单，然后选择要使用服务实例的区域。
 
-      4. 通过使用从 *VCAP_SERVICES* 环境变量记录的凭证和连接参数，以创建用户提供的服务实例。有关如何创建用户提供的服务实例的信息，请参阅[创建用户提供的服务实例](../manageapps/reqnsi.html#user_provide_services)。
+      4. 通过使用从 *VCAP_SERVICES* 环境变量记录的凭证和连接参数，以创建用户提供的服务实例。有关如何创建用户提供的服务实例的信息，请参阅[创建用户提供的服务实例](/docs/apps/reqnsi.html#user_provide_services)。
 
       5. 通过使用以下命令，将用户创建的服务实例绑定到您的应用程序：
 

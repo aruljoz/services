@@ -6,7 +6,6 @@ IBM Cloud 服务
 
 	{: .navgroup id="learn"}
 	services_region.md
-	index.md
 	services_availability.md
 	service_deprecation.md
 	{: .navgroup-end}
@@ -15,4 +14,9 @@ IBM Cloud 服务
 	service_credentials.md
 	service_in_other_regions.md
 	s2s.md
+	{: .navgroup-end}
+	
+	{: .navgroup id="help"}
+	index.md
+	[有关管理服务的故障诊断](../troubleshoot/ts_services.html)
 	{: .navgroup-end}

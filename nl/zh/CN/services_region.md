@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2015, 2017
-lastupdated: "2017-12-15"
+  years: 2015, 2018
+lastupdated: "2018-01-19"
 
 ---
 
@@ -22,8 +22,8 @@ lastupdated: "2017-12-15"
 
 
 | 服务| 可在美国达拉斯购买| 可在英国伦敦购买| 可在德国法兰克福购买| 可在美国华盛顿购买| 可在澳大利亚悉尼购买|
-|:----------|:------------------------------|:------------------|:------------------|
-|{{site.data.keyword.cloudaccesstrailshort}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在区域中不可用|
+|:----------|:------------------------------|:------------------|:------------------|:------------------|:------------------|
+|{{site.data.keyword.cloudaccesstrailshort}} | 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.alchemyapishort}} | 在美国达拉斯托管| 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在美国达拉斯托管|
 |{{site.data.keyword.alertnotificationshort}}	| 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管|
 |{{site.data.keyword.appid_short}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管| 
@@ -59,6 +59,7 @@ lastupdated: "2017-12-15"
 |{{site.data.keyword.deliverypipeline}}	| 在美国达拉斯托管| 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在美国达拉斯托管|
 |Deployment Risk Analytics| 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在区域中不可用| 在区域中不可用|
 |Digital Content Checker| 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管|
+|{{site.data.keyword.discoveryshort}} | 在美国达拉斯托管| 在美国达拉斯托管| 在德国法兰克福托管| 在区域中不可用| 在美国达拉斯托管|
 |{{site.data.keyword.documentconversionshort}} | 在美国休斯顿托管| 在美国休斯顿托管| 在区域中不可用| 在区域中不可用| 在美国休斯顿托管|
 |{{site.data.keyword.docgen_short}}	| 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.geospatialshort_Geospatial}}	| 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在英国伦敦托管|
@@ -68,8 +69,9 @@ lastupdated: "2017-12-15"
 |{{site.data.keyword.cloudcerts_full}} | 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.registrylong}} | 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在区域中不可用| 在澳大利亚悉尼托管|
 |{{site.data.keyword.containerlong}} | 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在美国华盛顿托管| 在澳大利亚悉尼托管|
-|{{site.data.keyword.loganalysisfull}} | 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在区域中不可用| 在区域中不可用|
-|{{site.data.keyword.monitoringlong}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在区域中不可用|
+|{{site.data.keyword.loganalysisfull}} | 在美国达拉斯托管| 在区域中不可用| 在德国法兰克福托管| 在区域中不可用| 在澳大利亚悉尼托管|
+|{{site.data.keyword.mandbserv_notm}} | 在区域中不可用| 在区域中不可用| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管|
+|{{site.data.keyword.monitoringlong}} | 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在区域中不可用| 在澳大利亚悉尼托管|
 |{{site.data.keyword.datastagefull}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管|
 |{{site.data.keyword.graphshort}} | 在美国达拉斯托管| 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.mdmcloudfull}}	| 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在区域中不可用| 在澳大利亚悉尼托管|
@@ -84,7 +86,7 @@ lastupdated: "2017-12-15"
 |{{site.data.keyword.iot_short}}	| 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.iotrtinsights_short}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管|
 |IoT Workbench | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管|
-|{{site.data.keyword.keymanagementserviceshort}} | 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在区域中不可用| 在区域中不可用|
+|{{site.data.keyword.keymanagementserviceshort}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.languagetranslationshort}}	| 在美国达拉斯托管| 在美国达拉斯托管| 在德国法兰克福托管| 在区域中不可用| 在美国达拉斯托管|
 |{{site.data.keyword.pm_short}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.eventhubshort}} | 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在区域中不可用| 在区域中不可用|

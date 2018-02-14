@@ -6,7 +6,6 @@ IBM Cloud 서비스
 
 	{: .navgroup id="learn"}
 	services_region.md
-	index.md
 	services_availability.md
 	service_deprecation.md
 	{: .navgroup-end}
@@ -15,4 +14,9 @@ IBM Cloud 서비스
 	service_credentials.md
 	service_in_other_regions.md
 	s2s.md
+	{: .navgroup-end}
+	
+	{: .navgroup id="help"}
+	index.md
+	[서비스 관리에 대한 문제점 해결](../troubleshoot/ts_services.html)
 	{: .navgroup-end}
