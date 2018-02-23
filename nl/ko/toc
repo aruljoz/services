@@ -18,5 +18,5 @@ IBM Cloud 서비스
 	
 	{: .navgroup id="help"}
 	index.md
-	[서비스 관리에 대한 문제점 해결](../troubleshoot/ts_services.html)
+	[서비스 관리 문제점 해결](../troubleshoot/ts_services.html)
 	{: .navgroup-end}
