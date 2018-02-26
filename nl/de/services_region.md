@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2018
-lastupdated: "2018-01-19"
+lastupdated: "2018-02-02"
 
 ---
 
@@ -40,7 +40,7 @@ Nicht alle Services sind in jeder {{site.data.keyword.Bluemix_notm}}-Region erh�
 |CDN | Gehostet in Dallas, USA | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
 |{{site.data.keyword.conversationshort}} | Gehostet in Dallas, USA | Gehostet in Dallas, USA | Gehostet in Frankfurt, D | Nicht erhältlich in der Region | Gehostet in Dallas, USA |
 |{{site.data.keyword.iotmapinsights_short}} | Gehostet in Dallas, USA | Gehostet in London, UK | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Gehostet in Sydney, AU |
-|Cloud Foundry-Laufzeiten | Gehostet in Dallas, USA | Gehostet in London, UK | Gehostet in Frankfurt, D | Nicht erhältlich in der Region | Gehostet in Sydney, AU |
+|Cloud Foundry-Laufzeiten | Gehostet in Dallas, USA | Gehostet in London, UK | Gehostet in Frankfurt, D | Gehostet in Washington, DC, USA | Gehostet in Sydney, AU |
 |{{site.data.keyword.cloudant}} | Gehostet in Dallas, USA | Gehostet in London, UK | Gehostet in Frankfurt, D | Gehostet in Washington, DC, USA | Gehostet in Sydney, AU |
 |{{site.data.keyword.composeForElasticsearch}} | Gehostet in Dallas, USA, und Nord-Virginia, USA | Gehostet in London, UK, und Irland | Gehostet in Frankfurt, D | Nicht erhältlich in der Region | Gehostet in Sydney, AU |
 |{{site.data.keyword.composeForEtcd}}	| Gehostet in Dallas, USA	| Gehostet in London, UK	| Gehostet in Frankfurt, D | Gehostet in Washington, DC, USA | Gehostet in Sydney, AU |
@@ -65,11 +65,11 @@ Nicht alle Services sind in jeder {{site.data.keyword.Bluemix_notm}}-Region erh�
 |{{site.data.keyword.geospatialshort_Geospatial}}	| Gehostet in Dallas, USA	| Gehostet in London, UK	| Nicht erhältlich in der Region | Nicht erhältlich in der Region | Gehostet in London, UK |
 |{{site.data.keyword.GlobalizationPipeline_short}}	| Gehostet in Dallas, USA	| Gehostet in London, UK	| Nicht erhältlich in der Region | Nicht erhältlich in der Region | Gehostet in Sydney, AU |
 |{{site.data.keyword.dataworks_short}} | Gehostet in Dallas, USA | Gehostet in London, UK | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
-|{{site.data.keyword.openwhisk}} | Gehostet in Dallas, USA | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
+|{{site.data.keyword.openwhisk}} | Gehostet in Dallas, USA | Gehostet in London, UK | Gehostet in Frankfurt, D | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
 |{{site.data.keyword.cloudcerts_full}} | Gehostet in Dallas, USA | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
 |{{site.data.keyword.registrylong}} | Gehostet in Dallas, USA | Gehostet in London, UK | Gehostet in Frankfurt, D | Nicht erhältlich in der Region | Gehostet in Sydney, AU |
 |{{site.data.keyword.containerlong}} | Gehostet in Dallas, USA | Gehostet in London, UK | Gehostet in Frankfurt, D | Gehostet in Washington, DC, USA | Gehostet in Sydney, AU |
-|{{site.data.keyword.loganalysisfull}} | Gehostet in Dallas, USA | Nicht erhältlich in der Region | Gehostet in Frankfurt, D | Nicht erhältlich in der Region | Gehostet in Sydney, AU |
+|{{site.data.keyword.loganalysisfull}} | Gehostet in Dallas, USA | Gehostet in London, UK | Gehostet in Frankfurt, D | Nicht erhältlich in der Region | Gehostet in Sydney, AU |
 |{{site.data.keyword.mandbserv_notm}} | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Gehostet in Sydney, AU |
 |{{site.data.keyword.monitoringlong}} | Gehostet in Dallas, USA | Gehostet in London, UK | Gehostet in Frankfurt, D | Nicht erhältlich in der Region | Gehostet in Sydney, AU |
 |{{site.data.keyword.datastagefull}} | Gehostet in Dallas, USA | Gehostet in London, UK | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Gehostet in Sydney, AU |
@@ -86,7 +86,7 @@ Nicht alle Services sind in jeder {{site.data.keyword.Bluemix_notm}}-Region erh�
 |{{site.data.keyword.iot_short}}	| Gehostet in Dallas, USA	| Gehostet in London, UK	| Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
 |{{site.data.keyword.iotrtinsights_short}} | Gehostet in Dallas, USA | Gehostet in London, UK	| Nicht erhältlich in der Region | Nicht erhältlich in der Region | Gehostet in Sydney, AU |
 |IoT Workbench | Gehostet in Dallas, USA | Gehostet in London, UK | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Gehostet in Sydney, AU |
-|{{site.data.keyword.keymanagementserviceshort}} | Gehostet in Dallas, USA	| Gehostet in London, UK	| Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region	|
+|{{site.data.keyword.keymanagementserviceshort}} | Gehostet in Dallas, USA	| Gehostet in London, UK	| Nicht erhältlich in der Region | Nicht erhältlich in der Region | Gehostet in Sydney, AU	|
 |{{site.data.keyword.languagetranslationshort}}	| Gehostet in Dallas, USA	| Gehostet in Dallas, USA	| Gehostet in Frankfurt, D | Nicht erhältlich in der Region | Gehostet in Dallas, USA |
 |{{site.data.keyword.pm_short}} | Gehostet in Dallas, USA	| Gehostet in London, UK	| Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region |
 |{{site.data.keyword.eventhubshort}} | Gehostet in Dallas, USA | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region | Nicht erhältlich in der Region |

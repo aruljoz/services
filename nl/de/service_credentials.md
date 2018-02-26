@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2018
-lastupdated: "2017-10-26"
+lastupdated: "2018-02-13"
 
 ---
 
@@ -25,7 +25,7 @@ Während der Inhalt des jeweiligen Berechtigungsnachweises für den Service, der
 
 Führen Sie die folgenden Schritte aus, um einen neuen Berechtigungsnachweis für einen von IBM verwalteten Service hinzuzufügen:
 
-1. Wählen Sie auf der Servicedetailseite die Registerkarte mit den Berechtigungsnachweisen aus und klicken Sie auf **Neuen Berechtigungsnachweis + **.
+1. Wählen Sie im Dashboard den Namen des Service aus, um die Seite mit den Servicedetails zu öffnen. Wählen Sie dann die Registerkarte für Berechtigungsnachweise aus und klicken Sie auf **Neuen Berechtigungsnachweis + **.
 2. Geben Sie im Dialogfeld für das Hinzufügen eines neuen Berechtigungsnachweises einen **Name** an.
 3. Geben Sie die Rolle an. Dieser Wert legt die Zugriffsrolle des IAM-Service fest. Weitere Informationen finden Sie unter [IAM-Zugriff](/docs/iam/users_roles.html#userroles)
 4. Optional können Sie eine Service-ID bereitstellen, indem Sie IAM einen eindeutigen Wert für Sie generieren lassen oder indem Sie eine vorhandene Service-ID bereitstellen. Weitere Informationen finden Sie unter [Service-IDs erstellen und verwalten](https://console.stage1.bluemix.net/docs/iam/serviceid.html#serviceids).
