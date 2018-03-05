@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2018
-lastupdated: "2017-10-26"
+lastupdated: "2018-02-13"
 
 ---
 
@@ -21,11 +21,11 @@ Vous pouvez générer un nouveau jeu de données d'identification pour le cas o�
 
 Les services gérés par {{site.data.keyword.Bluemix}} Identity and Access Management (IAM) peuvent générer une clé de ressource, également dénommée donnée d'identification. Les données d'identification sont propres au service concerné et varient en fonction de la manière dont chaque service définit les données d'identification devant être générées. Ces données d'identification peuvent contenir un nom d'utilisateur, un mot de passe, un nom d'hôte et une URL. 
 
-Toutefois, alors que le contenu de chaque donnée d'identification est unique au service qui le génère, tous les services gérés par IAM nécessitent que de nouvelles données d'identification incluent un rôle d'accès du service IAM. Certains services peuvent générer des données supplémentaires nécessitant de renseigner des paramètres. Par exemple, un service peut vous demander d'entrer un paramètre langue pour définir la langue par défaut dans clé de resource générée. 
+Toutefois, alors que le contenu de chaque donnée d'identification est unique au service qui le génère, tous les services gérés par IAM nécessitent que de nouvelles données d'identification incluent un rôle d'accès du service IAM. Certains services peuvent générer des données supplémentaires nécessitant de renseigner des paramètres. Par exemple, un service peut vous demander d'entrer un paramètre langue pour définir la langue par défaut dans clé de ressource générée. 
 
 Pour ajouter de nouvelles données d'identification à un service géré par IAM, procédez comme suit :
 
-1. Dans la page des détails du service, sélectionnez l'onglet Données d'identification, puis cliquez sur **Nouvelles données d'identification + **.
+1. Dans le tableau de bord, sélectionnez la nom du service pour ouvrir la page des détails du service. Sélectionnez ensuite l'onglet Données d'identification et cliquez sur **Nouvelles données d'identification + **.
 2. Dans la boîte de dialogue Ajouter de nouvelles données d'identification, entrez un **Nom**.
 3. Spécifiez le rôle. Cette valeur définit le rôle d'accès du service IAM. Pour plus d'informations, voir [Accès IAM](/docs/iam/users_roles.html#userroles)
 4. Facultatif : vous pouvez renseigner la zone ID de service soit en autorisant IAM à générer automatiquement une valeur unique, soit en fournissant l'ID d'un service existant. Pour plus d'informations, voir [Création et gestion des ID de service](https://console.stage1.bluemix.net/docs/iam/serviceid.html#serviceids)
