@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2018
-lastupdated: "2017-10-26"
+lastupdated: "2018-02-13"
 
 ---
 
@@ -25,7 +25,7 @@ lastupdated: "2017-10-26"
 
 請完成下列步驟，以將新的認證新增至 IAM 所管理的服務：
 
-1. 從服務詳細資料頁面中，選取「認證」標籤，然後按一下**新建認證 +**。
+1. 從儀表板中，選取服務名稱以開啟該服務的詳細資料頁面。然後選取「認證」標籤，再按一下**新建認證 +**。
 2. 從「新增認證」對話框，提供**名稱**。
 3. 指定角色。此值會設定 IAM 服務存取角色。如需相關資訊，請參閱：[IAM 存取](/docs/iam/users_roles.html#userroles)
 4. 您可以選擇性地提供「服務 ID」，方法是容許 IAM 為您產生唯一值，或提供現有「服務 ID」。如需相關資訊，請參閱：[建立及管理服務 ID](https://console.stage1.bluemix.net/docs/iam/serviceid.html#serviceids)

@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2018
-lastupdated: "2018-01-19"
+lastupdated: "2018-02-02"
 
 ---
 
@@ -40,7 +40,7 @@ lastupdated: "2018-01-19"
 |CDN| 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.conversationshort}} | 在美国达拉斯托管| 在美国达拉斯托管| 在德国法兰克福托管| 在区域中不可用| 在美国达拉斯托管|
 |{{site.data.keyword.iotmapinsights_short}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管|
-|Cloud Foundry 运行时| 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在区域中不可用| 在澳大利亚悉尼托管|
+|Cloud Foundry 运行时| 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在美国华盛顿托管| 在澳大利亚悉尼托管|
 |{{site.data.keyword.cloudant}} | 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在美国华盛顿托管| 在澳大利亚悉尼托管|
 |{{site.data.keyword.composeForElasticsearch}} | 在美国达拉斯和美国北弗吉尼亚托管| 在英国伦敦和爱尔兰托管| 在德国法兰克福托管| 在区域中不可用| 在澳大利亚悉尼托管|
 |{{site.data.keyword.composeForEtcd}}	| 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在美国华盛顿托管| 在澳大利亚悉尼托管|
@@ -65,11 +65,11 @@ lastupdated: "2018-01-19"
 |{{site.data.keyword.geospatialshort_Geospatial}}	| 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在英国伦敦托管|
 |{{site.data.keyword.GlobalizationPipeline_short}}	| 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管|
 |{{site.data.keyword.dataworks_short}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在区域中不可用|
-|{{site.data.keyword.openwhisk}} | 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在区域中不可用| 在区域中不可用|
+|{{site.data.keyword.openwhisk}} | 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.cloudcerts_full}} | 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.registrylong}} | 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在区域中不可用| 在澳大利亚悉尼托管|
 |{{site.data.keyword.containerlong}} | 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在美国华盛顿托管| 在澳大利亚悉尼托管|
-|{{site.data.keyword.loganalysisfull}} | 在美国达拉斯托管| 在区域中不可用| 在德国法兰克福托管| 在区域中不可用| 在澳大利亚悉尼托管|
+|{{site.data.keyword.loganalysisfull}} | 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在区域中不可用| 在澳大利亚悉尼托管|
 |{{site.data.keyword.mandbserv_notm}} | 在区域中不可用| 在区域中不可用| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管|
 |{{site.data.keyword.monitoringlong}} | 在美国达拉斯托管| 在英国伦敦托管| 在德国法兰克福托管| 在区域中不可用| 在澳大利亚悉尼托管|
 |{{site.data.keyword.datastagefull}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管|
@@ -86,7 +86,7 @@ lastupdated: "2018-01-19"
 |{{site.data.keyword.iot_short}}	| 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.iotrtinsights_short}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管|
 |IoT Workbench | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管|
-|{{site.data.keyword.keymanagementserviceshort}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在区域中不可用|
+|{{site.data.keyword.keymanagementserviceshort}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在澳大利亚悉尼托管|
 |{{site.data.keyword.languagetranslationshort}}	| 在美国达拉斯托管| 在美国达拉斯托管| 在德国法兰克福托管| 在区域中不可用| 在美国达拉斯托管|
 |{{site.data.keyword.pm_short}} | 在美国达拉斯托管| 在英国伦敦托管| 在区域中不可用| 在区域中不可用| 在区域中不可用|
 |{{site.data.keyword.eventhubshort}} | 在美国达拉斯托管| 在区域中不可用| 在区域中不可用| 在区域中不可用| 在区域中不可用|

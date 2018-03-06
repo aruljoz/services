@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2018
-lastupdated: "2017-10-26"
+lastupdated: "2018-02-13"
 
 ---
 
@@ -25,7 +25,7 @@ lastupdated: "2017-10-26"
 
 要向 IAM 管理的服务添加新的凭证，请完成以下步骤：
 
-1. 在“服务详细信息”页面中，选择“凭证”选项卡，然后单击**新建凭证 +**。
+1. 在仪表板中，选择服务名称以打开服务详细信息页面。然后，选择“凭证”选项卡，并单击**新建凭证 +**。
 2. 在“添加新凭证”对话框中，提供**名称**。
 3. 指定角色。此值会设置 IAM 服务访问角色。有关更多信息，请参阅：[IAM 访问权](/docs/iam/users_roles.html#userroles)
 4. （可选）可以通过允许 IAM 生成唯一值来提供服务标识，或者提供现有服务标识。有关更多信息，请参阅：[创建和管理服务标识](https://console.stage1.bluemix.net/docs/iam/serviceid.html#serviceids)

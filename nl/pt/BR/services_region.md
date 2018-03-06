@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2018
-lastupdated: "2018-01-19"
+lastupdated: "2018-02-02"
 
 ---
 
@@ -40,7 +40,7 @@ Nem todos os serviços estão disponíveis para compra em cada região do {{site
 |CDN | Hospedado em Dallas, EUA | Não disponível na região | Não disponível na região | Não disponível na região | Não disponível na região |
 |{{site.data.keyword.conversationshort}} | Hospedado em Dallas, EUA | Hospedado em Dallas, EUA | Hospedado em Frankfurt, DE | Não disponível na região | Hospedado em Dallas, EUA |
 |{{site.data.keyword.iotmapinsights_short}} | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Não disponível na região | Não disponível na região | Hospedado em Sydney, Austrália |
-|Tempos de execução do Cloud Foundry | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Hospedado em Frankfurt, DE | Não disponível na região | Hospedado em Sydney, Austrália |
+|Tempos de execução do Cloud Foundry | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Hospedado em Frankfurt, DE | Hospedado em Washington,DC,US | Hospedado em Sydney, Austrália |
 |{{site.data.keyword.cloudant}} | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Hospedado em Frankfurt, DE | Hospedado em Washington,DC,US | Hospedado em Sydney, Austrália |
 |{{site.data.keyword.composeForElasticsearch}} | Hospedado em Dallas e em Virgínia do Norte, EUA | Hospedado em Londres, Reino Unido e Irlanda | Hospedado em Frankfurt, DE | Não disponível na região | Hospedado em Sydney, Austrália |
 |{{site.data.keyword.composeForEtcd}}	| Hospedado em Dallas, EUA	| Hospedado em Londres, Reino Unido	| Hospedado em Frankfurt, DE | Hospedado em Washington,DC,US | Hospedado em Sydney, Austrália |
@@ -65,11 +65,11 @@ Nem todos os serviços estão disponíveis para compra em cada região do {{site
 |{{site.data.keyword.geospatialshort_Geospatial}}	| Hospedado em Dallas, EUA	| Hospedado em Londres, Reino Unido	| Não disponível na região | Não disponível na região | Hospedado em Londres, Reino Unido |
 |{{site.data.keyword.GlobalizationPipeline_short}}	| Hospedado em Dallas, EUA	| Hospedado em Londres, Reino Unido	| Não disponível na região | Não disponível na região | Hospedado em Sydney, Austrália |
 |{{site.data.keyword.dataworks_short}} | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Não disponível na região | Não disponível na região | Não disponível na região |
-|{{site.data.keyword.openwhisk}} | Hospedado em Dallas, EUA | Não disponível na região | Não disponível na região | Não disponível na região | Não disponível na região |
+|{{site.data.keyword.openwhisk}} | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Hospedado em Frankfurt, DE | Não disponível na região | Não disponível na região |
 |{{site.data.keyword.cloudcerts_full}} | Hospedado em Dallas, EUA | Não disponível na região | Não disponível na região | Não disponível na região | Não disponível na região |
 |{{site.data.keyword.registrylong}} | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Hospedado em Frankfurt, DE | Não disponível na região | Hospedado em Sydney, Austrália |
 |{{site.data.keyword.containerlong}} | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Hospedado em Frankfurt, DE | Hospedado em Washington,DC,US | Hospedado em Sydney, Austrália |
-|{{site.data.keyword.loganalysisfull}} | Hospedado em Dallas, EUA | Não disponível na região | Hospedado em Frankfurt, DE | Não disponível na região | Hospedado em Sydney, Austrália |
+|{{site.data.keyword.loganalysisfull}} | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Hospedado em Frankfurt, DE | Não disponível na região | Hospedado em Sydney, Austrália |
 |{{site.data.keyword.mandbserv_notm}} | Não disponível na região | Não disponível na região | Não disponível na região | Não disponível na região | Hospedado em Sydney, Austrália |
 |{{site.data.keyword.monitoringlong}} | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Hospedado em Frankfurt, DE | Não disponível na região | Hospedado em Sydney, Austrália |
 |{{site.data.keyword.datastagefull}} | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Não disponível na região | Não disponível na região | Hospedado em Sydney, Austrália |
@@ -86,7 +86,7 @@ Nem todos os serviços estão disponíveis para compra em cada região do {{site
 |{{site.data.keyword.iot_short}}	| Hospedado em Dallas, EUA	| Hospedado em Londres, Reino Unido	| Não disponível na região | Não disponível na região | Não disponível na região |
 |{{site.data.keyword.iotrtinsights_short}} | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido	| Não disponível na região | Não disponível na região | Hospedado em Sydney, Austrália |
 |IoT Workbench | Hospedado em Dallas, EUA | Hospedado em Londres, Reino Unido | Não disponível na região | Não disponível na região | Hospedado em Sydney, Austrália |
-|{{site.data.keyword.keymanagementserviceshort}} | Hospedado em Dallas, EUA	| Hospedado em Londres, Reino Unido	| Não disponível na região | Não disponível na região | Não disponível na região	|
+|{{site.data.keyword.keymanagementserviceshort}} | Hospedado em Dallas, EUA	| Hospedado em Londres, Reino Unido	| Não disponível na região | Não disponível na região | Hospedado em Sydney, Austrália	|
 |{{site.data.keyword.languagetranslationshort}}	| Hospedado em Dallas, EUA	| Hospedado em Dallas, EUA	| Hospedado em Frankfurt, DE | Não disponível na região | Hospedado em Dallas, EUA |
 |{{site.data.keyword.pm_short}} | Hospedado em Dallas, EUA	| Hospedado em Londres, Reino Unido	| Não disponível na região | Não disponível na região | Não disponível na região |
 |{{site.data.keyword.eventhubshort}} | Hospedado em Dallas, EUA | Não disponível na região | Não disponível na região | Não disponível na região | Não disponível na região |
