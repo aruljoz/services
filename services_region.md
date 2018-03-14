@@ -14,7 +14,7 @@ lastupdated: "2018-02-02"
 # Services by region
 {: #services_region}
 
-{{site.data.keyword.Bluemix}} makes it easy for you to implement, host, and scale services and apps. You can focus on your application logic and application design. 
+{{site.data.keyword.Bluemix}} makes it easy for you to implement, host, and scale services and apps. You can focus on your application logic and application design.
 {:shortdesc}
 
 Not all services are available for purchase in every {{site.data.keyword.Bluemix_notm}} region. And, even if the service is available to purchase in that region, the service might be hosted in a different location. The following table shows the services that are provided by IBM.
@@ -22,11 +22,11 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 
 
 | Service | Available for purchase in Dallas, United States | Available for purchase in London, United Kingdom | Available for purchase in Frankfurt, Germany | Available for purchase in Washington, DC, United States | Available for purchase in Sydney, Australia |
-|:----------|:------------------------------|:------------------|:------------------|:------------------|:------------------|
+|-----|-----|-----|-----|-----|-----|
 |{{site.data.keyword.cloudaccesstrailshort}} | Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Not available in region | Not available in region |
 |{{site.data.keyword.alchemyapishort}} | Hosted in Dallas,US | Hosted in Dallas,US | Not available in region | Not available in region | Hosted in Dallas,US |
 |{{site.data.keyword.alertnotificationshort}}	| Hosted in Dallas,US	| Hosted in London,UK	| Not available in region | Not available in region | Hosted in Sydney,AU |
-|{{site.data.keyword.appid_short}} | Hosted in Dallas,US | Hosted in London,UK | Not available in region | Not available in region | Hosted in Sydney,AU | 
+|{{site.data.keyword.appid_short}} | Hosted in Dallas,US | Hosted in London,UK | Not available in region | Not available in region | Hosted in Sydney,AU |
 |{{site.data.keyword.appseccloudshort}} | Hosted in Dallas,US | Hosted in Dallas,US | Not available in region | Not available in region | Hosted in Dallas,US |
 |Apache Spark | Hosted in Dallas,US | Not available in region | Not available in region| Not available in region | Not available in region |
 |{{site.data.keyword.apiconnect_short}} | Hosted in Dallas,US | Hosted in London,UK | Hosted in Frankfurt,DE | Hosted in Washington,DC,US | Hosted in Sydney,AU |
