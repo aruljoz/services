@@ -74,7 +74,7 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 | Information Server | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Informix | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Instrument Analytics | Not available | Not available | Not available | Not available | Hosted in US South| 
-| Internet Services | ['global']
+| Internet Services | Available globally | Available globally | Available globally | Available globally | Available globally |
 | Internet of Things Platform | Not available | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Investment Portfolio | Not available | Not available | Not available | Not available | Hosted in US South| 
 | IoT for Automotive | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
