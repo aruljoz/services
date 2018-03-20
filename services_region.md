@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2018
-lastupdated: "2018-03-14"
+lastupdated: "2018-03-20"
 
 ---
 
@@ -54,10 +54,7 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 | Context Mapping | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Continuous Delivery | Not available | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Continuous Release | Not available | Not available | Not available | Not available | Hosted in US South| 
-| Conversation | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Cost and Asset Management | Not available | Not available | Not available | Not available | Hosted in US South| 
-| Data Catalog | Not available | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
-| Data Science Experience | Not available | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Db2 Hosted | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Db2 Warehouse | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Db2 | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
@@ -66,20 +63,24 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 | Digital Content Checker | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Discovery | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Driver Behavior | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
+| Dynamic Dashboard Embedded | Not available | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Event Management | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Geospatial Analytics | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Globalization Pipeline | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Historical Instrument Analytics | Not available | Not available | Not available | Not available | Hosted in US South| 
+| Hyper Protect Crypto Services | Not available | Not available | Not available | Not available | Hosted in US South| 
 | HyperSecure DBaaS | Not available | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | IBM Identity Mixer | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Not available |
 | Information Server | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Informix | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Instrument Analytics | Not available | Not available | Not available | Not available | Hosted in US South| 
+| Internet Services | ['global']
 | Internet of Things Platform | Not available | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Investment Portfolio | Not available | Not available | Not available | Not available | Hosted in US South| 
 | IoT for Automotive | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | IoT for Electronics | Not available | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Key Protect | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
+| Knowledge Catalog | Not available | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Knowledge Studio | Not available | Hosted in Germany | Not available | Not available | Hosted in US South| 
 | Language Translator | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Lift CLI | Not available | Not available | Not available | Not available | Hosted in US South| 
@@ -112,7 +113,9 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 | Tone Analyzer | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Visual Recognition | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Voice Agent with Watson | Not available | Not available | Not available | Not available | Hosted in US South| 
+| Watson Assistant (formerly Conversation) | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Watson Data Kits | Not available | Not available | Not available | Not available | Hosted in US South| 
+| Watson Studio | Not available | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Weather Company Data | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | WebSphere Application Server | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Workload Scheduler | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
