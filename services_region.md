@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2018
-lastupdated: "2018-03-20"
+lastupdated: "2018-03-21"
 
 ---
 
@@ -98,7 +98,6 @@ Not all services are available for purchase in every {{site.data.keyword.Bluemix
 | Personality Insights | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Portfolio Optimization | Not available | Not available | Not available | Not available | Hosted in US South| 
 | Predictive Market Scenarios | Not available | Not available | Not available | Not available | Hosted in US South| 
-| Product Insights | Not available | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Push Notifications | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Hosted in US East | Hosted in US South| 
 | Real-Time Payments | Not available | Not available | Not available | Not available | Hosted in US South| 
 | Runbook Automation | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
