@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2018
-lastupdated: "2018-03-22"
+lastupdated: "2018-03-23"
 
 ---
 
@@ -32,7 +32,7 @@ Some services are globally available, which means they are deployed in at least 
 | API Harmony | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Activity Tracker | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Alert Notification | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
-| Analytics Engine | Not available | Not available | Not available | Not available | Hosted in US South| 
+| Analytics Engine | Not available | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | Apache Spark | Not available | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | App Connect | Hosted in Sydney | Not available | Hosted in United Kingdom | Not available | Hosted in US South| 
 | App ID | Hosted in Sydney | Hosted in Germany | Hosted in United Kingdom | Not available | Hosted in US South| 
